@@ -7,7 +7,7 @@ from typing import List
 import time
 
 from api_parser.data import config
-from api_parser.uitls import logging
+from api_parser.utils import logging
 from api_parser.models import BuildingModel, PriceListItem
 
 
