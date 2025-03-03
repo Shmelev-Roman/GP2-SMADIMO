@@ -10,6 +10,9 @@ packages = [{include = "api_parser"}]
 python = "^3.11"
 orjson = "^3.10.15"
 pydantic = "^2.10.6"
+structlog = "^25.1.0"
+requests = "^2.32.3"
+environs = "^14.1.1"
 
 
 [build-system]
