@@ -1,0 +1,5066 @@
+[
+    {
+        "_id": "6617a125ea8d092b821fffa0",
+        "title": "Amber City",
+        "slug": "amber-city",
+        "img": "https://fsk-uploads.hb.bizmrg.com/production/1726146895853-feee9edc8af1a8b31733998597fd189b.jpg",
+        "imgDouble": "https://fsk-uploads.hb.bizmrg.com/production/1726146665482-feee9edc8af1a8b31733998597fd189b.jpg",
+        "city": 1,
+        "logo": "https://fsk-uploads.hb.bizmrg.com/production/1721653849783-61c25f6d293b98f16ee6d0ba571045ed.png",
+        "logoPreview": "https://fsk-uploads.hb.bizmrg.com/production/1726653287687-3af8c84c126293e812237399edabd332.svg",
+        "client": [
+            "FSK"
+        ],
+        "priceMin": 18781963,
+        "priceMax": 76290230,
+        "areaMin": 28.2,
+        "areaMax": 103.1,
+        "areaLandMin": 0,
+        "areaLandMax": 0,
+        "flats": 207,
+        "flatsBuilt": 0,
+        "flatsBooking": 207,
+        "flatsFurniture": 0,
+        "flatsFinishing": 811,
+        "flatsView": 26,
+        "projectClass": 3,
+        "complexClass": 3,
+        "kind": [
+            "LIVING"
+        ],
+        "geo": [
+            37.535723,
+            55.76943
+        ],
+        "rooms": [
+            0,
+            1,
+            2,
+            3,
+            4
+        ],
+        "deliveryDateMin": "2027-09-29T21:00:00.000Z",
+        "deliveryDateMax": "2028-06-29T21:00:00.000Z",
+        "finishing": [
+            0,
+            1,
+            3
+        ],
+        "flatsFeatures": [],
+        "percentSold": 0,
+        "floors": [
+            40,
+            46,
+            57
+        ],
+        "propertyTypes": [
+            0,
+            7
+        ],
+        "corpusCount": 2,
+        "options": [
+            "SHOW_TRAITS",
+            "FLAT_GROUPS"
+        ],
+        "labels": [
+            {
+                "title": "Скидки до 30%",
+                "color": "#E94200FF",
+                "link": ""
+            },
+            {
+                "title": "Рассрочка 0% ",
+                "color": "#E94200FF",
+                "link": ""
+            },
+            {
+                "title": "Премиум-класс",
+                "color": "#2E2E31FF",
+                "link": ""
+            }
+        ],
+        "travel": [
+            {
+                "_id": "67ab3c22bcd5135b9c25a8f3",
+                "from": [
+                    {
+                        "_id": "649ac7546069a0ab9bbf46aa",
+                        "title": "Беговая",
+                        "color": "#943E90",
+                        "geo": [
+                            37.545518,
+                            55.773505
+                        ],
+                        "kind": "SUBWAY"
+                    }
+                ],
+                "foot": 5,
+                "auto": 0,
+                "subway": 0,
+                "km": 0
+            },
+            {
+                "_id": "67ab3c22bcd5135b9c25a8f4",
+                "from": [
+                    {
+                        "_id": "64907541282a836e56fb59c4",
+                        "title": " ТТК",
+                        "color": "!1976D2FF",
+                        "kind": "RING"
+                    }
+                ],
+                "foot": 0,
+                "auto": 5,
+                "subway": 0,
+                "km": 1
+            },
+            {
+                "_id": "67ab3c22bcd5135b9c25a8f5",
+                "from": [
+                    {
+                        "_id": "649ac7556069a0ab9bbf47ab",
+                        "title": "ЦЕНТР",
+                        "color": "#",
+                        "kind": "CENTER"
+                    }
+                ],
+                "foot": 0,
+                "auto": 10,
+                "subway": 0,
+                "km": 4
+            }
+        ],
+        "coverImg": {
+            "_id": "67ab3c22bcd5135b9c25a8de",
+            "src": "https://fsk-uploads.hb.bizmrg.com/production/1726822241384-c3a39fb0b12ce226b5cf4d6ed8f72b89.png"
+        },
+        "coverImgMobile": {
+            "_id": "67ab3c22bcd5135b9c25a8df",
+            "src": "https://fsk-uploads.hb.bizmrg.com/production/1726822192571-b827cbcb749b28ef859ba4329f9f78e1.png"
+        },
+        "previewText": "",
+        "logoPreviewWidth": 324
+    },
+    {
+        "_id": "617fcce8cb6cdb47614a7a12",
+        "title": "Sky Garden",
+        "slug": "skygarden",
+        "img": "https://fsk-uploads.hb.bizmrg.com/production/1734706979898-d8c6c7133a792aefdf27f6de987494c3.jpg",
+        "imgDouble": "https://fsk-uploads.hb.bizmrg.com/production/1734706676567-8793dd5ca6f3fab32c37cb8d186e3796.jpg",
+        "city": 1,
+        "logo": "https://fsk-uploads.hb.bizmrg.com/production/61b9d35dd75a4_4f5103e846331866f578a8c51fde7196.png",
+        "logoPreview": "https://fsk-uploads.hb.bizmrg.com/production/1726651892546-ad93097a70b4a88f4ec41382a00d84dc.svg",
+        "client": [
+            "FSK"
+        ],
+        "priceMin": 14430920,
+        "priceMax": 39947408,
+        "areaMin": 29.1,
+        "areaMax": 116.4,
+        "areaLandMin": 0,
+        "areaLandMax": 0,
+        "flats": 369,
+        "flatsBuilt": 0,
+        "flatsBooking": 365,
+        "flatsFurniture": 0,
+        "flatsFinishing": 2476,
+        "flatsView": 131,
+        "projectClass": 2,
+        "complexClass": 2,
+        "kind": [
+            "COMMERCE",
+            "LIVING"
+        ],
+        "geo": [
+            37.42309841370899,
+            55.83607765044901
+        ],
+        "rooms": [
+            0,
+            1,
+            2,
+            3,
+            4
+        ],
+        "deliveryDateMin": "2025-06-29T21:00:00.000Z",
+        "deliveryDateMax": "2027-06-29T21:00:00.000Z",
+        "finishing": [
+            0,
+            1,
+            3
+        ],
+        "flatsFeatures": [
+            {
+                "title": "Студия с большой ванной комнатой"
+            },
+            {
+                "title": "Студия"
+            },
+            {
+                "title": "Квартира европейского формата"
+            },
+            {
+                "title": "Квартира с большой ванной комнатой"
+            },
+            {
+                "title": "Квартира с ориентацией на 2 стороны света"
+            },
+            {
+                "title": "Квартира с увеличенным числом окон"
+            },
+            {
+                "title": "Квартира с мастер-спальней"
+            }
+        ],
+        "percentSold": 0,
+        "floors": [
+            23,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            43,
+            44
+        ],
+        "propertyTypes": [
+            0,
+            7
+        ],
+        "corpusCount": 3,
+        "options": [
+            "FLAT_GROUPS",
+            "LP_VIEW",
+            "SHOW_TRAITS"
+        ],
+        "labels": [
+            {
+                "title": "Скидки 25% ",
+                "color": "#E94200FF",
+                "link": ""
+            },
+            {
+                "title": "Рассрочка 0% ",
+                "color": "#E94200FF",
+                "link": ""
+            },
+            {
+                "title": "Бизнес-класс",
+                "color": "#2E2E31FF",
+                "link": ""
+            }
+        ],
+        "travel": [
+            {
+                "_id": "67c5ca2888041fd553264d09",
+                "from": [
+                    {
+                        "_id": "64907d3d282a836e56fdb272",
+                        "title": "Тушинская",
+                        "color": "#943E90",
+                        "geo": [
+                            37.437024,
+                            55.825479
+                        ],
+                        "kind": "SUBWAY"
+                    }
+                ],
+                "foot": 15,
+                "auto": 0,
+                "subway": 0,
+                "km": 0
+            },
+            {
+                "_id": "67c5ca2888041fd553264d0a",
+                "from": [
+                    {
+                        "_id": "64907541282a836e56fb59c4",
+                        "title": " ТТК",
+                        "color": "!1976D2FF",
+                        "kind": "RING"
+                    }
+                ],
+                "foot": 0,
+                "auto": 16,
+                "subway": 0,
+                "km": 12
+            },
+            {
+                "_id": "67c5ca2888041fd553264d0b",
+                "from": [
+                    {
+                        "_id": "649ac7556069a0ab9bbf47ab",
+                        "title": "ЦЕНТР",
+                        "color": "#",
+                        "kind": "CENTER"
+                    }
+                ],
+                "foot": 0,
+                "auto": 20,
+                "subway": 0,
+                "km": 15
+            }
+        ],
+        "coverImg": {
+            "_id": "67c5ca2888041fd553264cef",
+            "src": "https://fsk-uploads.hb.bizmrg.com/production/1734706686225-8793dd5ca6f3fab32c37cb8d186e3796.jpg"
+        },
+        "coverImgMobile": {
+            "_id": "67c5ca2888041fd553264cf0",
+            "src": "https://fsk-uploads.hb.bizmrg.com/production/1734707017507-d8c6c7133a792aefdf27f6de987494c3.jpg"
+        },
+        "logoPreviewWidth": 228
+    },
+    {
+        "_id": "62f3bd1b9d21ccb1f32d1c0e",
+        "title": "Движение. Говорово",
+        "slug": "dvizhenie-govorovo",
+        "img": "https://fsk-uploads.hb.bizmrg.com/production/1735146837142-7c496cc23bc437b6c088011f577cbfe3.jpg",
+        "imgDouble": "https://fsk-uploads.hb.bizmrg.com/production/62f4e9b30b4d9_dea7f58cd09e80bf8f907ee4308c3642.jpg",
+        "city": 1,
+        "logo": "https://fsk-uploads.hb.bizmrg.com/production/62f4f147bd856_b7837f0f1d33d9e5f3da972022f56eca.png",
+        "logoPreview": "https://fsk-uploads.hb.bizmrg.com/production/1726652398192-728e72ad9258cd548aa512337abf8aeb.svg",
+        "client": [
+            "FSK"
+        ],
+        "priceMin": 5818731,
+        "priceMax": 18151429,
+        "areaMin": 22.94,
+        "areaMax": 84,
+        "areaLandMin": 0,
+        "areaLandMax": 0,
+        "flats": 434,
+        "flatsBuilt": 0,
+        "flatsBooking": 433,
+        "flatsFurniture": 1317,
+        "flatsFinishing": 1596,
+        "flatsView": 29,
+        "projectClass": 1,
+        "complexClass": 1,
+        "kind": [
+            "LIVING"
+        ],
+        "geo": [
+            37.44161256649592,
+            55.65200803753957
+        ],
+        "rooms": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "deliveryDateMin": "2025-06-29T21:00:00.000Z",
+        "deliveryDateMax": "2025-06-29T21:00:00.000Z",
+        "finishing": [
+            0,
+            1,
+            3
+        ],
+        "flatsFeatures": [
+            {
+                "title": "Студия"
+            },
+            {
+                "title": "Апартаменты"
+            },
+            {
+                "title": "Апартаменты с увеличенным количеством окон"
+            },
+            {
+                "title": "Апартаменты с террасой"
+            },
+            {
+                "title": "Апартаменты с гардеробной"
+            },
+            {
+                "title": "Апартаменты с ориентацией на 2 стороны света"
+            },
+            {
+                "title": "Апартаменты с угловым окном"
+            }
+        ],
+        "percentSold": 0,
+        "floors": [
+            15
+        ],
+        "propertyTypes": [
+            5,
+            7
+        ],
+        "corpusCount": 2,
+        "options": [
+            "FLAT_GROUPS",
+            "LP_VIEW",
+            "EXPORT_AS_APARTMENT",
+            "SHOW_TRAITS"
+        ],
+        "labels": [
+            {
+                "title": "Скидки 25%",
+                "color": "#E94200",
+                "link": ""
+            },
+            {
+                "title": "Рассрочка 0%",
+                "color": "#E94200FF",
+                "link": ""
+            },
+            {
+                "title": "Юго-Запад Москвы",
+                "color": "#2E2E31",
+                "link": ""
+            }
+        ],
+        "travel": [
+            {
+                "_id": "67c1938c66de13683841d3fc",
+                "from": [
+                    {
+                        "_id": "6490a0a1282a836e560688a1",
+                        "title": "Говорово",
+                        "color": "#FFCD1C",
+                        "kind": "SUBWAY"
+                    }
+                ],
+                "foot": 25,
+                "auto": 0,
+                "subway": 0,
+                "km": 0
+            },
+            {
+                "_id": "67c1938c66de13683841d3fd",
+                "from": [
+                    {
+                        "_id": "649ac7546069a0ab9bbf4601",
+                        "title": "Тропарево",
+                        "color": "#E42313",
+                        "geo": [
+                            37.4725,
+                            55.6459
+                        ],
+                        "kind": "SUBWAY"
+                    }
+                ],
+                "foot": 0,
+                "auto": 7,
+                "subway": 0,
+                "km": 0
+            },
+            {
+                "_id": "67c1938c66de13683841d3fe",
+                "from": [
+                    {
+                        "_id": "649ac7546069a0ab9bbf45bf",
+                        "title": "Теплый Стан",
+                        "color": "#F07E24",
+                        "geo": [
+                            37.505912,
+                            55.61873
+                        ],
+                        "kind": "SUBWAY"
+                    }
+                ],
+                "foot": 0,
+                "auto": 12,
+                "subway": 0,
+                "km": 0
+            },
+            {
+                "_id": "67c1938c66de13683841d3ff",
+                "from": [
+                    {
+                        "_id": "64907541282a836e56fb59c4",
+                        "title": " ТТК",
+                        "color": "!1976D2FF",
+                        "kind": "RING"
+                    }
+                ],
+                "foot": 0,
+                "auto": 20,
+                "subway": 0,
+                "km": 13
+            },
+            {
+                "_id": "67c1938c66de13683841d400",
+                "from": [
+                    {
+                        "_id": "649ac7556069a0ab9bbf47ab",
+                        "title": "ЦЕНТР",
+                        "color": "#",
+                        "kind": "CENTER"
+                    }
+                ],
+                "foot": 0,
+                "auto": 24,
+                "subway": 0,
+                "km": 16
+            }
+        ],
+        "coverImg": {
+            "_id": "67c1938c66de13683841d3e1",
+            "src": "https://fsk-uploads.hb.bizmrg.com/production/1726817465719-7b7d0664d865e41c12f28c1bfe04f12d.jpg"
+        },
+        "coverImgMobile": {
+            "_id": "67c1938c66de13683841d3e2",
+            "src": "https://fsk-uploads.hb.bizmrg.com/production/1726818998991-ef22947bc238a7ea6d6ec7fa986547d0.png"
+        },
+        "logoPreviewWidth": 316
+    },
+    {
+        "_id": "6050c6c4cb6cdb4761623fa1",
+        "title": "Sydney City",
+        "slug": "sydney-city",
+        "img": "https://fsk-uploads.hb.bizmrg.com/production/616993a36814c_a0d4bf87c096de61370ca273ede526cd.png",
+        "imgDouble": "https://fsk-uploads.hb.bizmrg.com/production/5fb6531a99072_46c53e63fe0497469401e8704121f959.jpg",
+        "city": 1,
+        "logo": "https://fsk-uploads.hb.bizmrg.com/production/6007ffd59ba65_789486acd77d93ac36c3dee356184877.png",
+        "logoPreview": "https://fsk-uploads.hb.bizmrg.com/production/1726650855339-130164d07c93c36300df95e8e4e2c884.svg",
+        "client": [
+            "FSK"
+        ],
+        "priceMin": 16845785,
+        "priceMax": 145624040,
+        "areaMin": 29.1,
+        "areaMax": 164.5,
+        "areaLandMin": 0,
+        "areaLandMax": 0,
+        "flats": 381,
+        "flatsBuilt": 138,
+        "flatsBooking": 380,
+        "flatsFurniture": 0,
+        "flatsFinishing": 2503,
+        "flatsView": 117,
+        "projectClass": 3,
+        "complexClass": 3,
+        "kind": [
+            "COMMERCE",
+            "LIVING"
+        ],
+        "geo": [
+            37.50958906889311,
+            55.76482455784139
+        ],
+        "rooms": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+        ],
+        "deliveryDateMin": "2023-06-27T21:00:00.000Z",
+        "deliveryDateMax": "2027-09-29T21:00:00.000Z",
+        "finishing": [
+            0,
+            1,
+            3
+        ],
+        "flatsFeatures": [
+            {
+                "title": "Квартира европейского формата"
+            },
+            {
+                "title": "Квартира с большой ванной комнатой"
+            },
+            {
+                "title": "Квартира с мастер-спальней"
+            },
+            {
+                "title": "Квартира с панорамным остеклением"
+            },
+            {
+                "title": "Квартира с увеличенным числом окон"
+            },
+            {
+                "title": "Квартира с французским остеклением"
+            },
+            {
+                "title": "Квартира с окном в ванной"
+            },
+            {
+                "title": "Студия"
+            },
+            {
+                "title": "Двухуровневая квартира европейского формата"
+            },
+            {
+                "title": "Квартира с мастер-блоком"
+            },
+            {
+                "title": "Двухуровневая квартира с французским и панорамным остеклением"
+            },
+            {
+                "title": "Студия с французским остеклением"
+            },
+            {
+                "title": "Квартира европейского формата с французским и панорамным остеклением"
+            },
+            {
+                "title": "Двухуровневая квартира"
+            },
+            {
+                "title": "Квартира с французским и панорамным остеклением"
+            },
+            {
+                "title": "Двухуровневя квартира европейского формата с французским остеклением"
+            }
+        ],
+        "percentSold": 0,
+        "floors": [
+            20,
+            23,
+            24,
+            26,
+            27,
+            28,
+            29,
+            42,
+            43,
+            44,
+            8
+        ],
+        "propertyTypes": [
+            0,
+            7
+        ],
+        "corpusCount": 12,
+        "options": [
+            "FLAT_GROUPS",
+            "GENPLAN_VISUAL",
+            "LP_VIEW",
+            "SHOW_TRAITS"
+        ],
+        "labels": [
+            {
+                "title": "Скидки до 28%",
+                "color": "#e94200",
+                "link": ""
+            },
+            {
+                "title": "Рассрочка 0%",
+                "color": "#2e2e31",
+                "link": ""
+            }
+        ],
+        "travel": [
+            {
+                "_id": "67c5e1832eaf379083abc0c5",
+                "from": [
+                    {
+                        "_id": "649074ea282a836e56fb490f",
+                        "title": "Звенигородская(2025)",
+                        "color": "#1B2B38",
+                        "kind": "SUBWAY"
+                    }
+                ],
+                "foot": 2,
+                "auto": 0,
+                "subway": 0,
+                "km": 0
+            },
+            {
+                "_id": "67c5e1832eaf379083abc0c6",
+                "from": [
+                    {
+                        "_id": "649ac7536069a0ab9bbf4526",
+                        "title": "Шелепиха",
+                        "color": "#88CDCF",
+                        "geo": [
+                            37.52571,
+                            55.75723
+                        ],
+                        "kind": "SUBWAY"
+                    }
+                ],
+                "foot": 15,
+                "auto": 0,
+                "subway": 0,
+                "km": 0
+            },
+            {
+                "_id": "67c5e1832eaf379083abc0c7",
+                "from": [
+                    {
+                        "_id": "64907541282a836e56fb59c4",
+                        "title": " ТТК",
+                        "color": "!1976D2FF",
+                        "kind": "RING"
+                    }
+                ],
+                "foot": 0,
+                "auto": 6,
+                "subway": 0,
+                "km": 3
+            },
+            {
+                "_id": "67c5e1832eaf379083abc0c8",
+                "from": [
+                    {
+                        "_id": "649ac7556069a0ab9bbf47ab",
+                        "title": "ЦЕНТР",
+                        "color": "#",
+                        "kind": "CENTER"
+                    }
+                ],
+                "foot": 0,
+                "auto": 12,
+                "subway": 0,
+                "km": 6
+            }
+        ],
+        "coverImg": {
+            "_id": "67c5e1832eaf379083abc104",
+            "src": "https://fsk-uploads.hb.bizmrg.com/production/1726819732526-b5bdaccc7ec0f73d11b1497c01fb28e6.jpg"
+        },
+        "coverImgMobile": {
+            "_id": "67c5e1832eaf379083abc103",
+            "src": "https://fsk-uploads.hb.bizmrg.com/production/1726819715789-3503bf310a54987551ac0fd6195e9496.png"
+        },
+        "logoPreviewWidth": 216
+    },
+    {
+        "_id": "617f93f4cb6cdb47614344f4",
+        "title": "Rotterdam",
+        "slug": "rotterdam",
+        "img": "https://fsk-uploads.hb.bizmrg.com/production/62b5b50844792_c702c0d82fae4bfec6e89da9cbe30b44.jpg",
+        "imgDouble": "https://fsk-uploads.hb.bizmrg.com/production/62b5b508620e0_ce4c9fb0d0814bd68d3f9c336445e42b.jpg",
+        "city": 1,
+        "logo": "https://fsk-uploads.hb.bizmrg.com/production/61a8bbee93a3a_580ad96ead926463b5bb52960c71306d.png",
+        "logoPreview": "https://fsk-uploads.hb.bizmrg.com/production/1726651707946-332a435781ddbba3c9bf6c7c23eadf45.svg",
+        "client": [
+            "FSK"
+        ],
+        "priceMin": 18424907,
+        "priceMax": 77785015,
+        "areaMin": 27,
+        "areaMax": 143.8,
+        "areaLandMin": 0,
+        "areaLandMax": 0,
+        "flats": 100,
+        "flatsBuilt": 0,
+        "flatsBooking": 99,
+        "flatsFurniture": 0,
+        "flatsFinishing": 611,
+        "flatsView": 21,
+        "projectClass": 2,
+        "complexClass": 2,
+        "kind": [
+            "COMMERCE",
+            "LIVING"
+        ],
+        "geo": [
+            37.625336484130834,
+            55.68620109368187
+        ],
+        "rooms": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "deliveryDateMin": "2025-04-29T21:00:00.000Z",
+        "deliveryDateMax": "2025-06-29T21:00:00.000Z",
+        "finishing": [
+            0,
+            1,
+            3
+        ],
+        "flatsFeatures": [
+            {
+                "title": "Квартира с мастер-спальней"
+            },
+            {
+                "title": "Квартира с окном в ванной"
+            },
+            {
+                "title": "Квартира с ориентацией на 3 стороны света"
+            },
+            {
+                "title": "Квартира европейского формата"
+            },
+            {
+                "title": "Квартира с большой ванной комнатой"
+            },
+            {
+                "title": "Квартира с террасой"
+            },
+            {
+                "title": "Студия"
+            },
+            {
+                "title": "Студия с большой ванной комнатой"
+            },
+            {
+                "title": "Квартира с увеличенным числом окон"
+            },
+            {
+                "title": "Квартира с ориентацией на 2 стороны света"
+            }
+        ],
+        "percentSold": 0,
+        "floors": [
+            20,
+            28,
+            29
+        ],
+        "propertyTypes": [
+            0,
+            7
+        ],
+        "corpusCount": 5,
+        "options": [
+            "FLAT_GROUPS",
+            "LP_VIEW",
+            "SHOW_TRAITS"
+        ],
+        "labels": [
+            {
+                "title": "Скидки до 25%",
+                "color": "#E94200FF",
+                "link": ""
+            },
+            {
+                "title": "Бизнес-класс",
+                "color": "#2E2E31",
+                "link": ""
+            },
+            {
+                "title": "Рассрочка 0%",
+                "color": "#2E2E31FF",
+                "link": ""
+            }
+        ],
+        "travel": [
+            {
+                "_id": "67c5c191fcdbd900999fe54e",
+                "from": [
+                    {
+                        "_id": "6490a211282a836e5606e62d",
+                        "title": "м. Нагатинская",
+                        "color": "#ADACAC",
+                        "geo": [
+                            37.620917,
+                            55.682099
+                        ],
+                        "kind": "SUBWAY"
+                    }
+                ],
+                "foot": 3,
+                "auto": 0,
+                "subway": 0,
+                "km": 0
+            },
+            {
+                "_id": "67c5c191fcdbd900999fe54f",
+                "from": [
+                    {
+                        "_id": "64907541282a836e56fb59c4",
+                        "title": " ТТК",
+                        "color": "!1976D2FF",
+                        "kind": "RING"
+                    }
+                ],
+                "foot": 0,
+                "auto": 5,
+                "subway": 0,
+                "km": 2
+            },
+            {
+                "_id": "67c5c191fcdbd900999fe550",
+                "from": [
+                    {
+                        "_id": "649ac7556069a0ab9bbf47ab",
+                        "title": "ЦЕНТР",
+                        "color": "#",
+                        "kind": "CENTER"
+                    }
+                ],
+                "foot": 0,
+                "auto": 10,
+                "subway": 0,
+                "km": 5
+            },
+            {
+                "_id": "67c5c191fcdbd900999fe551",
+                "from": [
+                    {
+                        "_id": "6786094574c3f3176bccb991",
+                        "title": "МЦК Верхние котлы",
+                        "color": "#88CDCF",
+                        "kind": "RAILWAY"
+                    }
+                ],
+                "foot": 8,
+                "auto": 0,
+                "subway": 0,
+                "km": 0
+            },
+            {
+                "_id": "67c5c191fcdbd900999fe552",
+                "from": [
+                    {
+                        "_id": "67860a024a3a8b7608b14a95",
+                        "title": "причал Нагатинский",
+                        "color": "#006DA8",
+                        "kind": "RAILWAY"
+                    }
+                ],
+                "foot": 5,
+                "auto": 0,
+                "subway": 0,
+                "km": 0
+            }
+        ],
+        "coverImg": {
+            "_id": "67c5c191fcdbd900999fe579",
+            "src": "https://fsk-uploads.hb.bizmrg.com/production/1709567255399-bd0ed1d08523786b15074caa4c8619dd.jpg"
+        },
+        "coverImgMobile": {
+            "_id": "67c5c191fcdbd900999fe57a",
+            "src": "https://fsk-uploads.hb.bizmrg.com/production/1726754039892-aae6a73ec143146f2df219f9f2b11a3a.jpg"
+        },
+        "coverVideo": "",
+        "previewText": "",
+        "logoPreviewWidth": 328
+    },
+    {
+        "_id": "636ce8f7f459625c9efe72ad",
+        "title": "The LAKE",
+        "slug": "the-lake",
+        "img": "https://fsk-uploads.hb.bizmrg.com/production/1716280586030-99835b258d4a937807dad2babbe4083a.png",
+        "imgDouble": "https://fsk-uploads.hb.bizmrg.com/production/637233547b3e6_8e2f3206caf7951b5b27b6fd249d9a02.png",
+        "city": 1,
+        "logo": "https://fsk-uploads.hb.bizmrg.com/production/1699012869257-e675bf10017d248c42a2b5e75f1523f3.png",
+        "logoPreview": "https://fsk-uploads.hb.bizmrg.com/production/1726561547373-5082c61153a132c70e44eb9eede8747f.svg",
+        "client": [
+            "FSK"
+        ],
+        "priceMin": 31735781,
+        "priceMax": 62539500,
+        "areaMin": 48.7,
+        "areaMax": 99.9,
+        "areaLandMin": 0,
+        "areaLandMax": 0,
+        "flats": 18,
+        "flatsBuilt": 0,
+        "flatsBooking": 18,
+        "flatsFurniture": 0,
+        "flatsFinishing": 32,
+        "flatsView": 9,
+        "projectClass": 3,
+        "complexClass": 3,
+        "kind": [
+            "LIVING"
+        ],
+        "geo": [
+            37.648632712662064,
+            55.85192627707324
+        ],
+        "rooms": [
+            1,
+            2,
+            3,
+            4
+        ],
+        "deliveryDateMin": "2025-06-29T21:00:00.000Z",
+        "deliveryDateMax": "2025-06-29T21:00:00.000Z",
+        "finishing": [
+            0
+        ],
+        "flatsFeatures": [],
+        "percentSold": 0,
+        "floors": [
+            10,
+            16
+        ],
+        "propertyTypes": [
+            0
+        ],
+        "corpusCount": 1,
+        "options": [
+            "FLAT_GROUPS",
+            "LP_VIEW",
+            "SHOW_TRAITS"
+        ],
+        "labels": [
+            {
+                "title": "Рассрочка 0%",
+                "color": "#E94200FF",
+                "link": ""
+            },
+            {
+                "title": "Скидки 30%",
+                "color": "#E94200FF",
+                "link": ""
+            },
+            {
+                "title": "Клубный дом",
+                "color": "#2E2E31FF",
+                "link": ""
+            }
+        ],
+        "travel": [
+            {
+                "_id": "67c556ccd3b4b8f8981a2cef",
+                "from": [
+                    {
+                        "_id": "6490a3fe282a836e56076e4f",
+                        "title": "Ботанический сад",
+                        "color": "#F9BCD1",
+                        "geo": [
+                            37.640278,
+                            55.845556
+                        ],
+                        "kind": "SUBWAY"
+                    }
+                ],
+                "foot": 11,
+                "auto": 0,
+                "subway": 0,
+                "km": 0
+            },
+            {
+                "_id": "67c556ccd3b4b8f8981a2cf0",
+                "from": [
+                    {
+                        "_id": "649ac7546069a0ab9bbf458e",
+                        "title": "Свиблово",
+                        "color": "#F07E24",
+                        "geo": [
+                            37.653379,
+                            55.855558
+                        ],
+                        "kind": "SUBWAY"
+                    }
+                ],
+                "foot": 4,
+                "auto": 0,
+                "subway": 0,
+                "km": 0
+            },
+            {
+                "_id": "67c556ccd3b4b8f8981a2cf1",
+                "from": [
+                    {
+                        "_id": "64907541282a836e56fb59c4",
+                        "title": " ТТК",
+                        "color": "!1976D2FF",
+                        "kind": "RING"
+                    }
+                ],
+                "foot": 0,
+                "auto": 14,
+                "subway": 0,
+                "km": 7
+            },
+            {
+                "_id": "67c556ccd3b4b8f8981a2cf2",
+                "from": [
+                    {
+                        "_id": "649ac7556069a0ab9bbf47ab",
+                        "title": "ЦЕНТР",
+                        "color": "#",
+                        "kind": "CENTER"
+                    }
+                ],
+                "foot": 0,
+                "auto": 17,
+                "subway": 0,
+                "km": 10
+            }
+        ],
+        "coverImg": {
+            "_id": "67c556ccd3b4b8f8981a2d16",
+            "src": "https://fsk-uploads.hb.bizmrg.com/production/1716813516700-c9baca3cda1c39194c04fe2170c3da65.png"
+        },
+        "coverImgMobile": {
+            "_id": "67c556ccd3b4b8f8981a2d17",
+            "src": "https://fsk-uploads.hb.bizmrg.com/production/1716967161491-0efcf395c98003750182e5b777b3a465.jpg"
+        },
+        "coverVideo": "https://fsk-uploads.hb.ru-msk.vkcs.cloud/static/v6/prelanding/the-lake/video-banner/pre-the-lake",
+        "previewText": "Клубный дом в парке у воды",
+        "logoPreviewWidth": 160
+    },
+    {
+        "_id": "6050c6c4cb6cdb4761623f99",
+        "title": "Архитектор",
+        "slug": "arhitektor",
+        "img": "https://fsk-uploads.hb.bizmrg.com/production/6169920bab15b_0f442c2587aba09d0d2c07b33d81eb74.png",
+        "imgDouble": "https://fsk-uploads.hb.bizmrg.com/production/5f3fbea9d6ac4_90bdca6da3ed58e7ba826839a191371b.jpg",
+        "city": 1,
+        "logo": "https://fsk-uploads.hb.bizmrg.com/production/1714227595864-fd7a1b2ac004fb57bc7613a07a8f25ab.png",
+        "logoPreview": "https://fsk-uploads.hb.bizmrg.com/production/1726650762781-6dd8f06df37143bd144e116faec00e13.svg",
+        "client": [
+            "FSK"
+        ],
+        "priceMin": 16267095,
+        "priceMax": 222138000,
+        "areaMin": 29.9,
+        "areaMax": 252,
+        "areaLandMin": 0,
+        "areaLandMax": 0,
+        "flats": 74,
+        "flatsBuilt": 74,
+        "flatsBooking": 72,
+        "flatsFurniture": 0,
+        "flatsFinishing": 992,
+        "flatsView": 28,
+        "projectClass": 3,
+        "complexClass": 3,
+        "kind": [
+            "COMMERCE",
+            "LIVING"
+        ],
+        "geo": [
+            37.522108261901806,
+            55.65551549486346
+        ],
+        "rooms": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+        ],
+        "deliveryDateMin": "2024-12-03T21:00:00.000Z",
+        "deliveryDateMax": "2024-12-03T21:00:00.000Z",
+        "finishing": [
+            0,
+            1,
+            3
+        ],
+        "flatsFeatures": [
+            {
+                "title": "Квартира европейского формата и панорамным остеклением в спальне"
+            },
+            {
+                "title": "Квартира с большой ванной комнатой"
+            },
+            {
+                "title": "Квартира с мастер-спальней"
+            },
+            {
+                "title": "Квартира с увеличенным числом окон"
+            },
+            {
+                "title": "Квартира с панорамным остеклением"
+            },
+            {
+                "title": "Эркерная квартира"
+            },
+            {
+                "title": "Студия"
+            },
+            {
+                "title": "Квартира европейского формата"
+            },
+            {
+                "title": "Квартира с окном в ванной"
+            },
+            {
+                "title": "Квартира с панорамным остеклением балкона"
+            },
+            {
+                "title": "Двухуровневая квартира"
+            },
+            {
+                "title": "Двухэтажный пентхаус"
+            },
+            {
+                "title": "Квартира со вторым светом"
+            }
+        ],
+        "percentSold": 0,
+        "floors": [
+            28,
+            46,
+            47
+        ],
+        "propertyTypes": [
+            0,
+            7,
+            1
+        ],
+        "corpusCount": 3,
+        "options": [
+            "FLAT_GROUPS",
+            "LP_VIEW",
+            "SHOW_TRAITS",
+            "ARCHIVE"
+        ],
+        "labels": [
+            {
+                "title": "Скидки до 25%",
+                "color": "#e94200",
+                "link": ""
+            },
+            {
+                "title": "Дом сдан",
+                "color": "#2e2e31",
+                "link": ""
+            }
+        ],
+        "travel": [
+            {
+                "_id": "67a6271ea5d6a016a91437c4",
+                "from": [
+                    {
+                        "_id": "6490a140282a836e5606ad8f",
+                        "title": "Калужская",
+                        "color": "#F07E24",
+                        "geo": [
+                            37.540075,
+                            55.656682
+                        ],
+                        "kind": "SUBWAY"
+                    }
+                ],
+                "foot": 10,
+                "auto": 0,
+                "subway": 0,
+                "km": 0
+            },
+            {
+                "_id": "67a6271ea5d6a016a91437c5",
+                "from": [
+                    {
+                        "_id": "6746f6ef9712bc9109e28bcd",
+                        "title": "Воронцовская",
+                        "color": "#19D2C6",
+                        "geo": [
+                            37.538286785705445,
+                            55.65879647829841
+                        ],
+                        "kind": "SUBWAY"
+                    }
+                ],
+                "foot": 13,
+                "auto": 0,
+                "subway": 0,
+                "km": 0
+            },
+            {
+                "_id": "67a6271ea5d6a016a91437c6",
+                "from": [
+                    {
+                        "_id": "64907541282a836e56fb59c4",
+                        "title": " ТТК",
+                        "color": "!1976D2FF",
+                        "kind": "RING"
+                    }
+                ],
+                "foot": 0,
+                "auto": 14,
+                "subway": 0,
+                "km": 8
+            },
+            {
+                "_id": "67a6271ea5d6a016a91437c7",
+                "from": [
+                    {
+                        "_id": "649ac7556069a0ab9bbf47ab",
+                        "title": "ЦЕНТР",
+                        "color": "#",
+                        "kind": "CENTER"
+                    }
+                ],
+                "foot": 0,
+                "auto": 18,
+                "subway": 0,
+                "km": 11
+            }
+        ],
+        "coverImg": {
+            "_id": "67a6271ea5d6a016a91437ff",
+            "src": "https://fsk-uploads.hb.bizmrg.com/production/1721654147536-2b27b5e4e6d00b09089e9f95541ce2bf.jpg"
+        },
+        "coverImgMobile": {
+            "_id": "67a6271ea5d6a016a91437fe",
+            "src": "https://fsk-uploads.hb.bizmrg.com/production/1726819820181-dec528a913bb868e1e861699c1b0f0bb.png"
+        },
+        "yearDelivery": 2024,
+        "logoPreviewWidth": 312
+    },
+    {
+        "_id": "6050c6c4cb6cdb4761623fa3",
+        "title": "Римский",
+        "slug": "rimskiy",
+        "img": "https://fsk-uploads.hb.bizmrg.com/production/5f7dd473d2d9e_6b1372d689c7d138d2f4ac3121909de9.jpg",
+        "imgDouble": "https://fsk-uploads.hb.bizmrg.com/production/5f7dd47413dcc_d6e92f6864525828fe591d9c60cabcc3.jpg",
+        "city": 1,
+        "logo": "https://fsk-uploads.hb.bizmrg.com/production/1714145471214-c7dd70757bb3da6ba2bdaf70fee4d354.png",
+        "logoPreview": "https://fsk-uploads.hb.bizmrg.com/production/1726651984088-a4f4c46b5aa4af03ac9feaf58a0f107c.svg",
+        "client": [
+            "FSK"
+        ],
+        "priceMin": 6983176,
+        "priceMax": 24062250,
+        "areaMin": 27.3,
+        "areaMax": 120.4,
+        "areaLandMin": 0,
+        "areaLandMax": 0,
+        "flats": 521,
+        "flatsBuilt": 521,
+        "flatsBooking": 515,
+        "flatsFurniture": 199,
+        "flatsFinishing": 2314,
+        "flatsView": 190,
+        "projectClass": 1,
+        "complexClass": 1,
+        "kind": [
+            "COMMERCE",
+            "LIVING"
+        ],
+        "geo": [
+            37.76744379035184,
+            55.597072424771525
+        ],
+        "rooms": [
+            0,
+            1,
+            2,
+            3,
+            4
+        ],
+        "deliveryDateMin": "2024-03-01T20:59:59.999Z",
+        "deliveryDateMax": "2024-12-24T21:00:00.000Z",
+        "finishing": [
+            0,
+            1,
+            3
+        ],
+        "flatsFeatures": [
+            {
+                "title": "Двухуровневая квартира"
+            },
+            {
+                "title": "Квартира с увеличенным числом окон"
+            },
+            {
+                "title": "Квартира со вторым светом"
+            },
+            {
+                "title": "Квартира европейского формата"
+            },
+            {
+                "title": "Квартира с большой ванной комнатой"
+            },
+            {
+                "title": "Двухуровневая квартира европейского формата"
+            },
+            {
+                "title": "Квартира с круглым окном"
+            },
+            {
+                "title": "Квартира с окном в ванной"
+            },
+            {
+                "title": "Квартира с панорамным остеклением"
+            },
+            {
+                "title": "Студия"
+            },
+            {
+                "title": "Квартира с панорамным остеклением балкона"
+            },
+            {
+                "title": "Квартира с террасой"
+            },
+            {
+                "title": "Квартира с арочным окном"
+            },
+            {
+                "title": "Квартира с мастер-спальней"
+            }
+        ],
+        "percentSold": 0,
+        "floors": [
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+        ],
+        "propertyTypes": [
+            0,
+            7
+        ],
+        "corpusCount": 7,
+        "options": [
+            "FLAT_GROUPS",
+            "LP_VIEW",
+            "SHOW_TRAITS",
+            "ARCHIVE"
+        ],
+        "labels": [
+            {
+                "title": "Скидки до 23%",
+                "color": "#E94200",
+                "link": ""
+            },
+            {
+                "title": "Дом сдан",
+                "color": "#E94200FF",
+                "link": ""
+            },
+            {
+                "title": "Рассрочка 0%",
+                "color": "#2E2E31FF",
+                "link": ""
+            }
+        ],
+        "travel": [
+            {
+                "_id": "67a6274108241f9b8ea79748",
+                "from": [
+                    {
+                        "_id": "649071a6282a836e56fa757f",
+                        "title": "Домодедовская",
+                        "color": "#4FB04F",
+                        "geo": [
+                            37.717111,
+                            55.610131
+                        ],
+                        "kind": "SUBWAY"
+                    }
+                ],
+                "foot": 0,
+                "auto": 12,
+                "subway": 0,
+                "km": 0
+            },
+            {
+                "_id": "67a6274108241f9b8ea79749",
+                "from": [
+                    {
+                        "_id": "649ac7556069a0ab9bbf471b",
+                        "title": "Марьино",
+                        "color": "#BED12C",
+                        "geo": [
+                            37.743844,
+                            55.649158
+                        ],
+                        "kind": "SUBWAY"
+                    }
+                ],
+                "foot": 0,
+                "auto": 15,
+                "subway": 0,
+                "km": 0
+            },
+            {
+                "_id": "67a6274108241f9b8ea7974a",
+                "from": [
+                    {
+                        "_id": "64907541282a836e56fb59c4",
+                        "title": " ТТК",
+                        "color": "!1976D2FF",
+                        "kind": "RING"
+                    }
+                ],
+                "foot": 0,
+                "auto": 25,
+                "subway": 0,
+                "km": 18
+            },
+            {
+                "_id": "67a6274108241f9b8ea7974b",
+                "from": [
+                    {
+                        "_id": "649ac7556069a0ab9bbf47ab",
+                        "title": "ЦЕНТР",
+                        "color": "#",
+                        "kind": "CENTER"
+                    }
+                ],
+                "foot": 0,
+                "auto": 30,
+                "subway": 0,
+                "km": 21
+            }
+        ],
+        "coverImg": {
+            "_id": "67a6274108241f9b8ea79721",
+            "src": "https://fsk-uploads.hb.bizmrg.com/production/1726819892512-6eb4bcdfb399c7d663bab4053718f6e7.jpg"
+        },
+        "coverImgMobile": {
+            "_id": "67a6274108241f9b8ea79722",
+            "src": "https://fsk-uploads.hb.bizmrg.com/production/1726819875700-eb3aa24da68bcf9271a7c7de0076c792.png"
+        },
+        "yearDelivery": 2024,
+        "logoPreviewWidth": 320
+    },
+    {
+        "_id": "6050c6c4cb6cdb4761623f8d",
+        "title": "Движение.Тушино Апарт-отель",
+        "slug": "apart-otel-dvizhenie",
+        "img": "https://fsk-uploads.hb.bizmrg.com/production/608011181afd2_9c87fe298e381fd231f3722b9653e357.jpg",
+        "imgDouble": "https://fsk-uploads.hb.bizmrg.com/production/608011f7c6b41_0704239eda989fec4f730820e87da369.jpg",
+        "city": 1,
+        "logo": "https://fsk-uploads.hb.bizmrg.com/production/1670249667300-b22a4e379cdaade1b3b63cd59250722d.png",
+        "client": [
+            "FSK"
+        ],
+        "priceMin": 0,
+        "priceMax": 0,
+        "areaMin": 0,
+        "areaMax": 0,
+        "areaLandMin": 0,
+        "areaLandMax": 0,
+        "flats": 0,
+        "flatsBuilt": 0,
+        "flatsBooking": 0,
+        "flatsFurniture": 0,
+        "flatsFinishing": 0,
+        "flatsView": 0,
+        "projectClass": 1,
+        "complexClass": 1,
+        "kind": [
+            "COMMERCE"
+        ],
+        "geo": [
+            37.43585096029662,
+            55.82236187200045
+        ],
+        "rooms": [],
+        "deliveryDateMin": "2022-09-03T21:00:00.000Z",
+        "deliveryDateMax": "2022-09-03T21:00:00.000Z",
+        "finishing": [],
+        "flatsFeatures": [],
+        "percentSold": 0,
+        "floors": [],
+        "propertyTypes": [],
+        "corpusCount": 0,
+        "options": [
+            "EXPORT_AS_APARTMENT",
+            "SHOW_TRAITS"
+        ],
+        "labels": [
+            {
+                "title": "Инвестиционный продукт",
+                "color": "#e94200",
+                "link": ""
+            },
+            {
+                "title": "Доходность от 14%",
+                "color": "#2e2e31",
+                "link": ""
+            }
+        ],
+        "travel": [
+            {
+                "_id": "6649f0ee684d8aeeb6337b96",
+                "from": [
+                    {
+                        "_id": "64907eb4282a836e56fe62a0",
+                        "title": "Спартак",
+                        "color": "#943E90",
+                        "geo": [
+                            37.4352,
+                            55.8182
+                        ],
+                        "kind": "SUBWAY"
+                    }
+                ],
+                "foot": 3,
+                "auto": 0,
+                "subway": 0,
+                "km": 0
+            },
+            {
+                "_id": "6649f0ee684d8aeeb6337b97",
+                "from": [
+                    {
+                        "_id": "64907d3d282a836e56fdb272",
+                        "title": "Тушинская",
+                        "color": "#943E90",
+                        "geo": [
+                            37.437024,
+                            55.825479
+                        ],
+                        "kind": "SUBWAY"
+                    }
+                ],
+                "foot": 5,
+                "auto": 0,
+                "subway": 0,
+                "km": 0
+            }
+        ]
+    },
+    {
+        "_id": "624e4caaabb9a7d34ac2501c",
+        "title": "Sydney Prime",
+        "slug": "sydney-prime",
+        "img": "https://fsk-uploads.hb.bizmrg.com/production/1679383168104-b338ba2b174ac69b83f6e0bd133e9fb9.jpg",
+        "imgDouble": "https://fsk-uploads.hb.bizmrg.com/production/1679383176587-b338ba2b174ac69b83f6e0bd133e9fb9.jpg",
+        "city": 1,
+        "logo": "https://fsk-uploads.hb.bizmrg.com/production/624f007d4faf7_30a9b7f037530f88dbaf9fcbe27a01eb.png",
+        "logoPreview": "https://fsk-uploads.hb.bizmrg.com/production/1726651643004-f4a6221ac52b039537f5f42ae7bfb445.svg",
+        "client": [
+            "FSK"
+        ],
+        "priceMin": 49836078,
+        "priceMax": 162559390,
+        "areaMin": 56.6,
+        "areaMax": 134.5,
+        "areaLandMin": 0,
+        "areaLandMax": 0,
+        "flats": 18,
+        "flatsBuilt": 0,
+        "flatsBooking": 18,
+        "flatsFurniture": 0,
+        "flatsFinishing": 70,
+        "flatsView": 3,
+        "projectClass": 3,
+        "complexClass": 3,
+        "kind": [
+            "LIVING"
+        ],
+        "geo": [
+            37.509852200746366,
+            55.76488425983197
+        ],
+        "rooms": [
+            2,
+            3,
+            4
+        ],
+        "deliveryDateMin": "2025-03-30T21:00:00.000Z",
+        "deliveryDateMax": "2025-03-30T21:00:00.000Z",
+        "finishing": [
+            3
+        ],
+        "flatsFeatures": [
+            {
+                "title": "Квартира европейского формата"
+            },
+            {
+                "title": "Квартира с большой ванной комнатой"
+            },
+            {
+                "title": "Квартира с увеличенным числом окон"
+            },
+            {
+                "title": "Квартира с французским остеклением"
+            },
+            {
+                "title": "Квартира с мастер-спальней"
+            },
+            {
+                "title": "Квартира с окном в ванной"
+            }
+        ],
+        "percentSold": 0,
+        "floors": [],
+        "propertyTypes": [
+            0
+        ],
+        "corpusCount": 0,
+        "options": [
+            "LP_VIEW",
+            "SHOW_TRAITS"
+        ],
+        "labels": [
+            {
+                "title": "Внесите больше – платите меньше",
+                "color": "#E94200FF",
+                "link": ""
+            },
+            {
+                "title": "Приватные дома у воды",
+                "color": "#2e2e31",
+                "link": ""
+            }
+        ],
+        "travel": [
+            {
+                "_id": "67a627acfcc189837686ade7",
+                "from": [
+                    {
+                        "_id": "649074ea282a836e56fb490f",
+                        "title": "Звенигородская(2025)",
+                        "color": "#1B2B38",
+                        "kind": "SUBWAY"
+                    }
+                ],
+                "foot": 10,
+                "auto": 0,
+                "subway": 0,
+                "km": 0
+            },
+            {
+                "_id": "67a627acfcc189837686ade8",
+                "from": [
+                    {
+                        "_id": "64907541282a836e56fb59c4",
+                        "title": " ТТК",
+                        "color": "!1976D2FF",
+                        "kind": "RING"
+                    }
+                ],
+                "foot": 0,
+                "auto": 6,
+                "subway": 0,
+                "km": 3
+            },
+            {
+                "_id": "67a627acfcc189837686ade9",
+                "from": [
+                    {
+                        "_id": "649ac7556069a0ab9bbf47ab",
+                        "title": "ЦЕНТР",
+                        "color": "#",
+                        "kind": "CENTER"
+                    }
+                ],
+                "foot": 0,
+                "auto": 12,
+                "subway": 0,
+                "km": 6
+            }
+        ],
+        "coverImg": {
+            "_id": "67a627acfcc189837686add1",
+            "src": "https://fsk-uploads.hb.bizmrg.com/production/1726819962551-fca092221b07562e510ea7620f3c53be.jpg"
+        },
+        "coverImgMobile": {
+            "_id": "67a627acfcc189837686add2",
+            "src": "https://fsk-uploads.hb.bizmrg.com/production/1726819940006-0f0039b89a6568aaac553d5902bfcf75.png"
+        },
+        "logoPreviewWidth": 208
+    },
+    {
+        "_id": "6050c6c4cb6cdb4761623f6f",
+        "title": "Режиссер",
+        "slug": "rezhiser",
+        "img": "https://fsk-uploads.hb.bizmrg.com/production/616992dddd26b_9b1db8726dd6b87cf5d4a25c05ebd9c7.png",
+        "imgDouble": "https://fsk-uploads.hb.bizmrg.com/production/617ff756cbd44_8d152867ac258fa14ef43e42f3620bb1.jpg",
+        "city": 1,
+        "logo": "https://fsk-uploads.hb.bizmrg.com/production/6008378519580_0b22c5f9613b0ad01526bc174414a5b8.png",
+        "logoPreview": "https://fsk-uploads.hb.bizmrg.com/production/1726651213084-c69888da424fed2f75da3156aeaa3815.svg",
+        "client": [
+            "FSK"
+        ],
+        "priceMin": 22542128,
+        "priceMax": 94007550,
+        "areaMin": 37.1,
+        "areaMax": 135.8,
+        "areaLandMin": 0,
+        "areaLandMax": 0,
+        "flats": 47,
+        "flatsBuilt": 47,
+        "flatsBooking": 43,
+        "flatsFurniture": 0,
+        "flatsFinishing": 758,
+        "flatsView": 33,
+        "projectClass": 3,
+        "complexClass": 3,
+        "kind": [
+            "COMMERCE",
+            "LIVING"
+        ],
+        "geo": [
+            37.63895174075317,
+            55.83485478744337
+        ],
+        "rooms": [
+            1,
+            2,
+            3,
+            4
+        ],
+        "deliveryDateMin": "2024-08-29T21:00:00.000Z",
+        "deliveryDateMax": "2024-08-29T21:00:00.000Z",
+        "finishing": [
+            0,
+            3
+        ],
+        "flatsFeatures": [
+            {
+                "title": "Квартира европейского формата"
+            },
+            {
+                "title": "Квартира с большой ванной комнатой"
+            },
+            {
+                "title": "Квартира с мастер-спальней"
+            },
+            {
+                "title": "Двухуровневая квартира"
+            },
+            {
+                "title": "Квартира с увеличенным числом окон"
+            },
+            {
+                "title": "Квартира со вторым светом"
+            },
+            {
+                "title": "Квартира с панорамным остеклением"
+            }
+        ],
+        "percentSold": 0,
+        "floors": [
+            29,
+            38,
+            48
+        ],
+        "propertyTypes": [
+            0
+        ],
+        "corpusCount": 3,
+        "options": [
+            "FLAT_GROUPS",
+            "LP_VIEW",
+            "SHOW_TRAITS",
+            "ARCHIVE"
+        ],
+        "labels": [
+            {
+                "title": "Скидки 25% ",
+                "color": "#E94200",
+                "link": ""
+            },
+            {
+                "title": "Рассрочка 0%",
+                "color": "#E94200FF",
+                "link": ""
+            },
+            {
+                "title": "Дом сдан",
+                "color": "#2E2E31",
+                "link": ""
+            }
+        ],
+        "travel": [
+            {
+                "_id": "67c1daffc8afb7746d52e243",
+                "from": [
+                    {
+                        "_id": "6490a3cd282a836e560764f5",
+                        "title": "ВДНХ",
+                        "color": "#F07E24",
+                        "geo": [
+                            37.640751,
+                            55.819626
+                        ],
+                        "kind": "SUBWAY"
+                    }
+                ],
+                "foot": 20,
+                "auto": 0,
+                "subway": 0,
+                "km": 0
+            },
+            {
+                "_id": "67c1daffc8afb7746d52e244",
+                "from": [
+                    {
+                        "_id": "6490a3fe282a836e56076e4f",
+                        "title": "Ботанический сад",
+                        "color": "#F9BCD1",
+                        "geo": [
+                            37.640278,
+                            55.845556
+                        ],
+                        "kind": "SUBWAY"
+                    }
+                ],
+                "foot": 12,
+                "auto": 0,
+                "subway": 0,
+                "km": 0
+            },
+            {
+                "_id": "67c1daffc8afb7746d52e245",
+                "from": [
+                    {
+                        "_id": "64907541282a836e56fb59c4",
+                        "title": " ТТК",
+                        "color": "!1976D2FF",
+                        "kind": "RING"
+                    }
+                ],
+                "foot": 0,
+                "auto": 10,
+                "subway": 0,
+                "km": 6
+            },
+            {
+                "_id": "67c1daffc8afb7746d52e246",
+                "from": [
+                    {
+                        "_id": "649ac7556069a0ab9bbf47ab",
+                        "title": "ЦЕНТР",
+                        "color": "#",
+                        "kind": "CENTER"
+                    }
+                ],
+                "foot": 0,
+                "auto": 13,
+                "subway": 0,
+                "km": 8
+            }
+        ],
+        "coverImg": {
+            "_id": "67c1daffc8afb7746d52e215",
+            "src": "https://fsk-uploads.hb.bizmrg.com/production/1726820037957-999ea4c2ea39c8ee9e486f0375c52383.jpg"
+        },
+        "coverImgMobile": {
+            "_id": "67c1daffc8afb7746d52e216",
+            "src": "https://fsk-uploads.hb.bizmrg.com/production/1726820021461-b020e7b6a77d166b1bf694799a0a61f5.png"
+        },
+        "yearDelivery": 2024,
+        "logoPreviewWidth": 256
+    },
+    {
+        "_id": "6050c6c4cb6cdb4761623f85",
+        "title": "Датский квартал",
+        "slug": "datskij-kvartal",
+        "img": "https://fsk-uploads.hb.bizmrg.com/production/62617bdfdb81c_a2dbfe0d90054c91f8a24e100b3da2dc.jpg",
+        "imgDouble": "https://fsk-uploads.hb.bizmrg.com/production/62617be00573d_e009bef01518942525cc27e0ed4c2023.jpg",
+        "city": 1,
+        "logo": "https://fsk-uploads.hb.bizmrg.com/production/620f52f42e24f_9de65c957c5879895f8d1ed200a29258.png",
+        "logoPreview": "https://fsk-uploads.hb.bizmrg.com/production/1726653080040-1d097a2c2a6cb9c18cb3586339841758.svg",
+        "client": [
+            "FSK"
+        ],
+        "priceMin": 6885450,
+        "priceMax": 21858760,
+        "areaMin": 26,
+        "areaMax": 76.9,
+        "areaLandMin": 0,
+        "areaLandMax": 0,
+        "flats": 46,
+        "flatsBuilt": 46,
+        "flatsBooking": 46,
+        "flatsFurniture": 0,
+        "flatsFinishing": 1747,
+        "flatsView": 14,
+        "projectClass": 1,
+        "complexClass": 1,
+        "kind": [
+            "COMMERCE",
+            "LIVING"
+        ],
+        "geo": [
+            37.627835468383815,
+            55.90356549700748
+        ],
+        "rooms": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "deliveryDateMin": "2023-11-28T21:00:00.000Z",
+        "deliveryDateMax": "2023-11-28T21:00:00.000Z",
+        "finishing": [
+            0,
+            1
+        ],
+        "flatsFeatures": [
+            {
+                "title": "Квартира с большой ванной комнатой"
+            },
+            {
+                "title": "Квартира с панорамным остеклением"
+            },
+            {
+                "title": "Квартира с возможностью организации тёплой лоджии"
+            },
+            {
+                "title": "Квартира с увеличенным окном"
+            },
+            {
+                "title": "Квартира европейского формата"
+            },
+            {
+                "title": "Студия"
+            },
+            {
+                "title": "Квартира с окном в ванной"
+            },
+            {
+                "title": "Квартира с увеличенным числом окон"
+            },
+            {
+                "title": "Квартира с высокими потолками"
+            }
+        ],
+        "percentSold": 0,
+        "floors": [
+            11,
+            12,
+            15,
+            16,
+            17,
+            18,
+            21,
+            22,
+            9
+        ],
+        "propertyTypes": [
+            0,
+            7
+        ],
+        "corpusCount": 6,
+        "options": [
+            "FLAT_GROUPS",
+            "LP_VIEW",
+            "SHOW_TRAITS",
+            "ARCHIVE"
+        ],
+        "labels": [
+            {
+                "title": "Скидки до 25%",
+                "color": "#e94200",
+                "link": ""
+            },
+            {
+                "title": "Дом сдан",
+                "color": "#2e2e31",
+                "link": ""
+            },
+            {
+                "title": "Рассрочка на 2 года",
+                "color": "#2E2E31FF",
+                "link": ""
+            }
+        ],
+        "travel": [
+            {
+                "_id": "67c1ae0672d2a07eca672914",
+                "from": [
+                    {
+                        "_id": "6490a4a0282a836e560797e0",
+                        "title": "Бибирево",
+                        "color": "#ADACAC",
+                        "geo": [
+                            37.603011,
+                            55.883868
+                        ],
+                        "kind": "SUBWAY"
+                    }
+                ],
+                "foot": 0,
+                "auto": 11,
+                "subway": 0,
+                "km": 0
+            },
+            {
+                "_id": "67c1ae0672d2a07eca672915",
+                "from": [
+                    {
+                        "_id": "6490a4c3282a836e5607a48d",
+                        "title": "Алтуфьево",
+                        "color": "#ADACAC",
+                        "geo": [
+                            37.586473,
+                            55.899034
+                        ],
+                        "kind": "SUBWAY"
+                    }
+                ],
+                "foot": 0,
+                "auto": 10,
+                "subway": 0,
+                "km": 0
+            },
+            {
+                "_id": "67c1ae0672d2a07eca672916",
+                "from": [
+                    {
+                        "_id": "64907541282a836e56fb59c4",
+                        "title": " ТТК",
+                        "color": "!1976D2FF",
+                        "kind": "RING"
+                    }
+                ],
+                "foot": 0,
+                "auto": 27,
+                "subway": 0,
+                "km": 17
+            },
+            {
+                "_id": "67c1ae0672d2a07eca672917",
+                "from": [
+                    {
+                        "_id": "649ac7556069a0ab9bbf47ab",
+                        "title": "ЦЕНТР",
+                        "color": "#",
+                        "kind": "CENTER"
+                    }
+                ],
+                "foot": 0,
+                "auto": 30,
+                "subway": 0,
+                "km": 19
+            }
+        ],
+        "coverImg": {
+            "_id": "67c1ae0672d2a07eca6728e8",
+            "src": "https://fsk-uploads.hb.bizmrg.com/production/1726820201652-bcbb1528efc0d609a24032e0e77e3e0b.jpg"
+        },
+        "coverImgMobile": {
+            "_id": "67c1ae0672d2a07eca6728e9",
+            "src": "https://fsk-uploads.hb.bizmrg.com/production/1726820103258-ebcdcfc387375d4079f3af2b7f914c03.png"
+        },
+        "yearDelivery": 2023,
+        "logoPreviewWidth": 280
+    },
+    {
+        "_id": "66967542208bda7f70227710",
+        "title": "Симоновский вал",
+        "slug": "simonovskij-val",
+        "img": "https://fsk-uploads.hb.bizmrg.com/production/1721380564077-ee4e182dfd19649eff085ffe32702449.jpg",
+        "city": 1,
+        "logo": "https://fsk-uploads.hb.bizmrg.com/production/1721403396581-c76a20e17901f75d6631825f3a0787ce.png",
+        "logoPreview": "https://fsk-uploads.hb.bizmrg.com/production/1726750529315-a2b09c5a0bd8d3749ff161190262e8c9.svg",
+        "client": [
+            "FSK"
+        ],
+        "priceMin": 0,
+        "priceMax": 0,
+        "areaMin": 0,
+        "areaMax": 0,
+        "areaLandMin": 0,
+        "areaLandMax": 0,
+        "flats": 0,
+        "flatsBuilt": 0,
+        "flatsBooking": 0,
+        "flatsFurniture": 0,
+        "flatsFinishing": 0,
+        "flatsView": 0,
+        "projectClass": 3,
+        "complexClass": 3,
+        "kind": [
+            "LIVING"
+        ],
+        "geo": [
+            37.6675331,
+            55.7200668
+        ],
+        "rooms": [],
+        "deliveryDateMin": "1970-01-01T00:00:00.000Z",
+        "deliveryDateMax": "1970-01-01T00:00:00.000Z",
+        "finishing": [],
+        "flatsFeatures": [],
+        "percentSold": 0,
+        "floors": [],
+        "propertyTypes": [],
+        "corpusCount": 0,
+        "options": [
+            "START_ANNOUNCEMENT",
+            "SHOW_TRAITS"
+        ],
+        "labels": [
+            {
+                "title": "Скоро старт продаж",
+                "color": "#E94200FF",
+                "link": ""
+            },
+            {
+                "title": "Бизнес-класс ",
+                "color": "#2E2E31FF",
+                "link": ""
+            }
+        ],
+        "travel": [
+            {
+                "_id": "676559796366603f659f8a88",
+                "from": [
+                    {
+                        "_id": "649ac7556069a0ab9bbf4709",
+                        "title": "Дубровка",
+                        "color": "#89C608",
+                        "geo": [
+                            37.677775,
+                            55.71268
+                        ],
+                        "kind": "SUBWAY"
+                    }
+                ],
+                "foot": 8,
+                "auto": 0,
+                "subway": 0,
+                "km": 0
+            },
+            {
+                "_id": "676559796366603f659f8a89",
+                "from": [
+                    {
+                        "_id": "669a709c52543a8fc3d23d43",
+                        "title": "Садовое кольцо",
+                        "color": "#FFFFFF",
+                        "kind": "RING"
+                    }
+                ],
+                "foot": 0,
+                "auto": 5,
+                "subway": 0,
+                "km": 0
+            },
+            {
+                "_id": "676559796366603f659f8a8a",
+                "from": [
+                    {
+                        "_id": "64907541282a836e56fb59c4",
+                        "title": " ТТК",
+                        "color": "!1976D2FF",
+                        "kind": "RING"
+                    }
+                ],
+                "foot": 0,
+                "auto": 3,
+                "subway": 0,
+                "km": 1
+            },
+            {
+                "_id": "676559796366603f659f8a8b",
+                "from": [
+                    {
+                        "_id": "649ac7556069a0ab9bbf47ab",
+                        "title": "ЦЕНТР",
+                        "color": "#",
+                        "kind": "CENTER"
+                    }
+                ],
+                "foot": 0,
+                "auto": 5,
+                "subway": 0,
+                "km": 3
+            }
+        ],
+        "coverImg": {
+            "_id": "676559796366603f659f8a6c",
+            "src": "https://fsk-uploads.hb.bizmrg.com/production/1726822318464-f5ac31eb4e3fb4f35bd8308891646c45.png"
+        },
+        "coverImgMobile": {
+            "_id": "676559796366603f659f8a6d",
+            "src": "https://fsk-uploads.hb.bizmrg.com/production/1726822326331-1f0b9d22b776bf7628b98d8f4a722493.png"
+        },
+        "logoPreviewWidth": 344
+    },
+    {
+        "_id": "6050c6c4cb6cdb4761623fc3",
+        "title": "Движение. Тушино",
+        "slug": "dvizhenie",
+        "img": "https://fsk-uploads.hb.bizmrg.com/production/6080111d2ce7f_9c87fe298e381fd231f3722b9653e357.jpg",
+        "imgDouble": "https://fsk-uploads.hb.bizmrg.com/production/608011e390945_0704239eda989fec4f730820e87da369.jpg",
+        "city": 1,
+        "logo": "https://fsk-uploads.hb.bizmrg.com/production/1678209233619-2976ec17401ae0ef1940f2040a55fd52.png",
+        "logoPreview": "https://fsk-uploads.hb.bizmrg.com/production/1726651820056-3393e92795dc98bdd56ad0aebe091e2e.svg",
+        "client": [
+            "FSK"
+        ],
+        "priceMin": 0,
+        "priceMax": 0,
+        "areaMin": 0,
+        "areaMax": 0,
+        "areaLandMin": 0,
+        "areaLandMax": 0,
+        "flats": 0,
+        "flatsBuilt": 0,
+        "flatsBooking": 0,
+        "flatsFurniture": 179,
+        "flatsFinishing": 253,
+        "flatsView": 0,
+        "projectClass": 1,
+        "complexClass": 1,
+        "kind": [
+            "LIVING"
+        ],
+        "geo": [
+            37.43865560531178,
+            55.82233391306667
+        ],
+        "rooms": [],
+        "deliveryDateMin": "2022-08-03T21:00:00.000Z",
+        "deliveryDateMax": "2022-08-03T21:00:00.000Z",
+        "finishing": [],
+        "flatsFeatures": [],
+        "percentSold": 0,
+        "floors": [
+            13,
+            22
+        ],
+        "propertyTypes": [],
+        "corpusCount": 3,
+        "options": [
+            "EXPORT_AS_APARTMENT",
+            "SHOW_TRAITS"
+        ],
+        "labels": [
+            {
+                "title": "Дома сданы",
+                "color": "#2e2e31",
+                "link": ""
+            }
+        ],
+        "travel": [
+            {
+                "_id": "67a627d88520cf9e64e61ef2",
+                "from": [
+                    {
+                        "_id": "64907d3d282a836e56fdb272",
+                        "title": "Тушинская",
+                        "color": "#943E90",
+                        "geo": [
+                            37.437024,
+                            55.825479
+                        ],
+                        "kind": "SUBWAY"
+                    }
+                ],
+                "foot": 5,
+                "auto": 0,
+                "subway": 0,
+                "km": 0
+            },
+            {
+                "_id": "67a627d88520cf9e64e61ef3",
+                "from": [
+                    {
+                        "_id": "64907eb4282a836e56fe62a0",
+                        "title": "Спартак",
+                        "color": "#943E90",
+                        "geo": [
+                            37.4352,
+                            55.8182
+                        ],
+                        "kind": "SUBWAY"
+                    }
+                ],
+                "foot": 3,
+                "auto": 0,
+                "subway": 0,
+                "km": 0
+            }
+        ],
+        "coverImg": {
+            "_id": "67a627d88520cf9e64e61ed7",
+            "src": "https://fsk-uploads.hb.bizmrg.com/production/1726820273769-bc92fa636db62f3adc82da98843ef3d0.jpg"
+        },
+        "coverImgMobile": {
+            "_id": "67a627d88520cf9e64e61ed8",
+            "src": "https://fsk-uploads.hb.bizmrg.com/production/1726820254690-858e78db9df224637a0e73256173471f.png"
+        },
+        "yearDelivery": 2022,
+        "logoPreviewWidth": 308
+    },
+    {
+        "_id": "6050c6c4cb6cdb4761623f83",
+        "title": "Рихард",
+        "slug": "rihard",
+        "img": "https://fsk-uploads.hb.bizmrg.com/production/61698fb8a173b_8b7d8eb646c344a97a157a1704063b89.png",
+        "imgDouble": "https://fsk-uploads.hb.bizmrg.com/production/1706553228902-521fe067b9799bf415d398474766d572.jpg",
+        "city": 1,
+        "logo": "https://fsk-uploads.hb.bizmrg.com/production/6008398bbe94f_95fbb6869068e7788921b305cbe25127.png",
+        "logoPreview": "https://fsk-uploads.hb.bizmrg.com/production/1726652056072-84a55d5b3835887a16f2fd4f8e9ac1c4.svg",
+        "client": [
+            "FSK"
+        ],
+        "priceMin": 28335216,
+        "priceMax": 54691872,
+        "areaMin": 53.5,
+        "areaMax": 103.2,
+        "areaLandMin": 0,
+        "areaLandMax": 0,
+        "flats": 6,
+        "flatsBuilt": 6,
+        "flatsBooking": 1,
+        "flatsFurniture": 0,
+        "flatsFinishing": 179,
+        "flatsView": 2,
+        "projectClass": 1,
+        "complexClass": 1,
+        "kind": [
+            "LIVING"
+        ],
+        "geo": [
+            37.509783048965446,
+            55.78239842840687
+        ],
+        "rooms": [
+            2,
+            3
+        ],
+        "deliveryDateMin": "2022-07-06T21:00:00.000Z",
+        "deliveryDateMax": "2022-07-06T21:00:00.000Z",
+        "finishing": [
+            0,
+            1,
+            3
+        ],
+        "flatsFeatures": [
+            {
+                "title": "Квартира европейского формата"
+            },
+            {
+                "title": "Квартира с увеличенным числом окон"
+            },
+            {
+                "title": "Квартира с большой ванной комнатой"
+            },
+            {
+                "title": "Квартира с кладовой"
+            }
+        ],
+        "percentSold": 0,
+        "floors": [
+            12,
+            13,
+            26,
+            27,
+            8
+        ],
+        "propertyTypes": [
+            0
+        ],
+        "corpusCount": 2,
+        "options": [
+            "ARCHIVE",
+            "FLAT_GROUPS",
+            "LP_VIEW",
+            "SHOW_TRAITS"
+        ],
+        "labels": [
+            {
+                "title": "Ипотека траншами",
+                "color": "#e94200",
+                "link": ""
+            },
+            {
+                "title": "Дом сдан",
+                "color": "#2e2e31",
+                "link": ""
+            }
+        ],
+        "travel": [
+            {
+                "_id": "67a627e6a5d6a016a9145d39",
+                "from": [
+                    {
+                        "_id": "6490a329282a836e560733bb",
+                        "title": "Полежаевская",
+                        "color": "#943E90",
+                        "geo": [
+                            37.517895,
+                            55.777201
+                        ],
+                        "kind": "SUBWAY"
+                    }
+                ],
+                "foot": 10,
+                "auto": 0,
+                "subway": 0,
+                "km": 0
+            },
+            {
+                "_id": "67a627e6a5d6a016a9145d3a",
+                "from": [
+                    {
+                        "_id": "649ac7536069a0ab9bbf44cd",
+                        "title": "Хорошево",
+                        "color": "#F9BCD1",
+                        "geo": [
+                            37.507222,
+                            55.777222
+                        ],
+                        "kind": "SUBWAY"
+                    }
+                ],
+                "foot": 10,
+                "auto": 0,
+                "subway": 0,
+                "km": 0
+            },
+            {
+                "_id": "67a627e6a5d6a016a9145d3b",
+                "from": [
+                    {
+                        "_id": "64907541282a836e56fb59c4",
+                        "title": " ТТК",
+                        "color": "!1976D2FF",
+                        "kind": "RING"
+                    }
+                ],
+                "foot": 0,
+                "auto": 8,
+                "subway": 0,
+                "km": 0
+            },
+            {
+                "_id": "67a627e6a5d6a016a9145d3c",
+                "from": [
+                    {
+                        "_id": "649ac7556069a0ab9bbf47ab",
+                        "title": "ЦЕНТР",
+                        "color": "#",
+                        "kind": "CENTER"
+                    }
+                ],
+                "foot": 0,
+                "auto": 15,
+                "subway": 0,
+                "km": 0
+            }
+        ],
+        "coverImg": {
+            "_id": "67a627e6a5d6a016a9145d21",
+            "src": "https://fsk-uploads.hb.bizmrg.com/production/1726820356557-c8602e226e72f5e09c5f46e8b10ec5a6.jpg"
+        },
+        "coverImgMobile": {
+            "_id": "67a627e6a5d6a016a9145d22",
+            "src": "https://fsk-uploads.hb.bizmrg.com/production/1726820341079-96e474c43078d769e3546f234b8365ee.png"
+        },
+        "yearDelivery": 2022,
+        "logoPreviewWidth": 292
+    },
+    {
+        "_id": "6050c6c4cb6cdb4761623fbd",
+        "title": "Скандинавский",
+        "slug": "skandinavskiy",
+        "img": "https://fsk-uploads.hb.bizmrg.com/production/62b5b2804657a_2692629572ab159acc67a07c0e383dbe.jpg",
+        "imgDouble": "https://fsk-uploads.hb.bizmrg.com/production/62b5b28066d37_d1faa985bf92df6b842fa78048ee6d73.jpg",
+        "city": 1,
+        "logo": "https://fsk-uploads.hb.bizmrg.com/production/620f63350b227_2aeda69983e083193ac466b0e713af6e.png",
+        "logoPreview": "https://fsk-uploads.hb.bizmrg.com/production/1726653031790-03699b92406bf561c0d1358b81713d91.svg",
+        "client": [
+            "FSK"
+        ],
+        "priceMin": 8780400,
+        "priceMax": 13946400,
+        "areaMin": 36,
+        "areaMax": 60.5,
+        "areaLandMin": 0,
+        "areaLandMax": 0,
+        "flats": 7,
+        "flatsBuilt": 7,
+        "flatsBooking": 2,
+        "flatsFurniture": 0,
+        "flatsFinishing": 610,
+        "flatsView": 3,
+        "projectClass": 1,
+        "complexClass": 1,
+        "kind": [
+            "COMMERCE",
+            "LIVING"
+        ],
+        "geo": [
+            37.65979776155037,
+            55.92169617061965
+        ],
+        "rooms": [
+            1,
+            2
+        ],
+        "deliveryDateMin": "2019-07-04T21:00:00.000Z",
+        "deliveryDateMax": "2023-10-24T21:00:00.000Z",
+        "finishing": [
+            0,
+            3
+        ],
+        "flatsFeatures": [
+            {
+                "title": "Квартира европейского формата"
+            },
+            {
+                "title": "Квартира с большой ванной комнатой"
+            },
+            {
+                "title": "Квартира с панорамным остеклением"
+            },
+            {
+                "title": "Квартира с ориентацией на 2 стороны света"
+            },
+            {
+                "title": "Квартира с мастер-спальней"
+            }
+        ],
+        "percentSold": 97,
+        "floors": [
+            15,
+            16,
+            8,
+            9
+        ],
+        "propertyTypes": [
+            0
+        ],
+        "corpusCount": 6,
+        "options": [
+            "ARCHIVE",
+            "SHOW_SOLD_PERCENT",
+            "SHOW_TRAITS"
+        ],
+        "labels": [
+            {
+                "title": "Скидки до 8%",
+                "color": "#e94200",
+                "link": ""
+            },
+            {
+                "title": "Дом сдан",
+                "color": "#2e2e31",
+                "link": ""
+            }
+        ],
+        "travel": [
+            {
+                "_id": "67ac5e304b34af4ce7d2d5e3",
+                "from": [
+                    {
+                        "_id": "6490a54d282a836e5607c89c",
+                        "title": "Медведково",
+                        "color": "#F07E24",
+                        "geo": [
+                            37.661562,
+                            55.888103
+                        ],
+                        "kind": "SUBWAY"
+                    }
+                ],
+                "foot": 0,
+                "auto": 14,
+                "subway": 0,
+                "km": 0
+            }
+        ],
+        "coverImg": {
+            "_id": "67ac5e304b34af4ce7d2d61b",
+            "src": "https://fsk-uploads.hb.bizmrg.com/production/1726820439136-6b26ac17cf09888d97a840de01efa78c.jpg"
+        },
+        "coverImgMobile": {
+            "_id": "67ac5e304b34af4ce7d2d61a",
+            "src": "https://fsk-uploads.hb.bizmrg.com/production/1726820422476-85944aefe849b3847eebf2eaaaa147ec.png"
+        },
+        "yearDelivery": 2024,
+        "logoPreviewWidth": 320
+    },
+    {
+        "_id": "667549439c000785086469a8",
+        "title": "Мартемьяново Клаб",
+        "slug": "martemyanovo-club",
+        "img": "https://fsk-uploads.hb.bizmrg.com/production/1718962257342-a67486889f1f9ec0a1f9fd1c3df88fd7.jpg",
+        "imgDouble": "https://fsk-uploads.hb.bizmrg.com/production/1718962271558-ac09fb0501dd17f493af90173b7f6b92.jpg",
+        "city": 1,
+        "logo": "https://fsk-uploads.hb.bizmrg.com/production/1719387164163-65ccc77b661485e48dabfb82c088d347.png",
+        "logoPreview": "https://fsk-uploads.hb.bizmrg.com/production/1726750599785-c950e08ee0fc3071bde4b8c2ee005525.svg",
+        "client": [
+            "FSK"
+        ],
+        "priceMin": 14970202,
+        "priceMax": 22284480,
+        "areaMin": 122.2,
+        "areaMax": 133.6,
+        "areaLandMin": 0.7,
+        "areaLandMax": 1.9,
+        "flats": 57,
+        "flatsBuilt": 0,
+        "flatsBooking": 56,
+        "flatsFurniture": 0,
+        "flatsFinishing": 0,
+        "flatsView": 8,
+        "projectClass": 1,
+        "complexClass": 1,
+        "kind": [
+            "SUBURBAN",
+            "LIVING"
+        ],
+        "geo": [
+            37.067973368541516,
+            55.52449984290104
+        ],
+        "rooms": [
+            5
+        ],
+        "deliveryDateMin": "2026-08-30T21:00:00.000Z",
+        "deliveryDateMax": "2026-10-29T21:00:00.000Z",
+        "finishing": [
+            0
+        ],
+        "flatsFeatures": [
+            {
+                "title": "Дом блокированной застройки"
+            }
+        ],
+        "percentSold": 0,
+        "floors": [
+            1
+        ],
+        "propertyTypes": [
+            3
+        ],
+        "corpusCount": 13,
+        "options": [
+            "SHOW_ON_SUBURBAN",
+            "SHOW_TRAITS",
+            "FLAT_GROUPS"
+        ],
+        "labels": [
+            {
+                "title": "Скидки до 19%",
+                "color": "#E94200FF",
+                "link": ""
+            },
+            {
+                "title": "Рассрочка",
+                "color": "#E94200FF",
+                "link": ""
+            },
+            {
+                "title": "Вносите больше — платите меньше",
+                "color": "#2E2E31FF",
+                "link": ""
+            },
+            {
+                "title": "Семейная ипотека",
+                "color": "#2E2E31FF",
+                "link": ""
+            }
+        ],
+        "travel": [
+            {
+                "_id": "67c5bb6c231970346b26fd03",
+                "from": [
+                    {
+                        "_id": "667963f24ca070f7d9c7053b",
+                        "title": "Апрелевка (D4) ",
+                        "color": "#36A770",
+                        "kind": "SUBWAY"
+                    }
+                ],
+                "foot": 0,
+                "auto": 10,
+                "subway": 0,
+                "km": 0
+            },
+            {
+                "_id": "67c5bb6c231970346b26fd04",
+                "from": [
+                    {
+                        "_id": "649ac7546069a0ab9bbf4605",
+                        "title": "Саларьево",
+                        "color": "#E42313",
+                        "geo": [
+                            37.424,
+                            55.6227
+                        ],
+                        "kind": "SUBWAY"
+                    }
+                ],
+                "foot": 0,
+                "auto": 25,
+                "subway": 0,
+                "km": 0
+            },
+            {
+                "_id": "67c5bb6c231970346b26fd05",
+                "from": [
+                    {
+                        "_id": "649158b2b5e3289022512944",
+                        "title": "МКАД",
+                        "color": "#FAFAFAFB",
+                        "kind": "RING"
+                    }
+                ],
+                "foot": 0,
+                "auto": 25,
+                "subway": 0,
+                "km": 0
+            },
+            {
+                "_id": "67c5bb6c231970346b26fd06",
+                "from": [
+                    {
+                        "_id": "64907541282a836e56fb59c4",
+                        "title": " ТТК",
+                        "color": "!1976D2FF",
+                        "kind": "RING"
+                    }
+                ],
+                "foot": 0,
+                "auto": 45,
+                "subway": 0,
+                "km": 43
+            },
+            {
+                "_id": "67c5bb6c231970346b26fd07",
+                "from": [
+                    {
+                        "_id": "649ac7556069a0ab9bbf47ab",
+                        "title": "ЦЕНТР",
+                        "color": "#",
+                        "kind": "CENTER"
+                    }
+                ],
+                "foot": 0,
+                "auto": 50,
+                "subway": 0,
+                "km": 45
+            }
+        ],
+        "coverImg": {
+            "_id": "67c5bb6c231970346b26fccb",
+            "src": "https://fsk-uploads.hb.bizmrg.com/production/1726822149844-1ea0fc4309373b4bb9148946688fecbe.png"
+        },
+        "coverImgMobile": {
+            "_id": "67c5bb6c231970346b26fccc",
+            "src": "https://fsk-uploads.hb.bizmrg.com/production/1726822101266-554fd27cc74ff0e856558a32debc6522.png"
+        },
+        "previewText": "",
+        "logoPreviewWidth": 352
+    },
+    {
+        "_id": "63474df8de1169fe5d127f90",
+        "title": "Парк Апрель",
+        "slug": "park-aprel",
+        "img": "https://fsk-uploads.hb.bizmrg.com/production/1709311725579-08ea1652bba413b89eb9ce6cdbb0ca95.jpg",
+        "imgDouble": "https://fsk-uploads.hb.bizmrg.com/production/1709311812500-487f2385659b1872d52199961a371e31.jpg",
+        "city": 1,
+        "logo": "https://fsk-uploads.hb.bizmrg.com/production/1676303297111-18147f50d18d46944299b2b98e21241a.png",
+        "logoPreview": "https://fsk-uploads.hb.bizmrg.com/production/1726653203272-c7b9d4bbed1f4c9e5f7d973ad4846c5a.svg",
+        "client": [
+            "FSK"
+        ],
+        "priceMin": 5603880,
+        "priceMax": 19770480,
+        "areaMin": 26.8,
+        "areaMax": 101.7,
+        "areaLandMin": 0,
+        "areaLandMax": 0.339,
+        "flats": 137,
+        "flatsBuilt": 87,
+        "flatsBooking": 135,
+        "flatsFurniture": 0,
+        "flatsFinishing": 82,
+        "flatsView": 0,
+        "projectClass": 1,
+        "complexClass": 1,
+        "kind": [
+            "SUBURBAN",
+            "LIVING"
+        ],
+        "geo": [
+            37.02934770635985,
+            55.53321367889558
+        ],
+        "rooms": [
+            1,
+            2,
+            3
+        ],
+        "deliveryDateMin": "2023-12-27T21:00:00.000Z",
+        "deliveryDateMax": "2025-06-29T21:00:00.000Z",
+        "finishing": [
+            0,
+            1,
+            3
+        ],
+        "flatsFeatures": [
+            {
+                "title": "Свободная планировка"
+            },
+            {
+                "title": "Выход на участок"
+            },
+            {
+                "title": "Высокие потолки до 7,2 метров"
+            }
+        ],
+        "percentSold": 0,
+        "floors": [
+            1,
+            2,
+            3,
+            4
+        ],
+        "propertyTypes": [
+            0
+        ],
+        "corpusCount": 14,
+        "options": [
+            "SHOW_ON_SUBURBAN",
+            "SHOW_TRAITS"
+        ],
+        "labels": [
+            {
+                "title": "Скидки до 12%",
+                "color": "#E94200",
+                "link": ""
+            },
+            {
+                "title": "Рассрочка",
+                "color": "#E94200FF",
+                "link": ""
+            },
+            {
+                "title": "Готовый клубный поселок",
+                "color": "#2E2E31FF",
+                "link": ""
+            },
+            {
+                "title": "Семейная ипотека",
+                "color": "#2E2E31FF",
+                "link": ""
+            }
+        ],
+        "travel": [
+            {
+                "_id": "67c1992222ee58045a8e3ec5",
+                "from": [
+                    {
+                        "_id": "667963f24ca070f7d9c7053b",
+                        "title": "Апрелевка (D4) ",
+                        "color": "#36A770",
+                        "kind": "SUBWAY"
+                    }
+                ],
+                "foot": 0,
+                "auto": 10,
+                "subway": 0,
+                "km": 0
+            },
+            {
+                "_id": "67c1992222ee58045a8e3ec6",
+                "from": [
+                    {
+                        "_id": "6490abdc282a836e56095dca",
+                        "title": "Румянцево",
+                        "color": "#E42313",
+                        "geo": [
+                            37.4419,
+                            55.633
+                        ],
+                        "kind": "SUBWAY"
+                    }
+                ],
+                "foot": 0,
+                "auto": 25,
+                "subway": 0,
+                "km": 0
+            },
+            {
+                "_id": "67c1992222ee58045a8e3ec7",
+                "from": [
+                    {
+                        "_id": "649158b2b5e3289022512944",
+                        "title": "МКАД",
+                        "color": "#FAFAFAFB",
+                        "kind": "RING"
+                    }
+                ],
+                "foot": 0,
+                "auto": 0,
+                "subway": 0,
+                "km": 30
+            },
+            {
+                "_id": "67c1992222ee58045a8e3ec8",
+                "from": [
+                    {
+                        "_id": "64907541282a836e56fb59c4",
+                        "title": " ТТК",
+                        "color": "!1976D2FF",
+                        "kind": "RING"
+                    }
+                ],
+                "foot": 0,
+                "auto": 50,
+                "subway": 0,
+                "km": 42
+            },
+            {
+                "_id": "67c1992222ee58045a8e3ec9",
+                "from": [
+                    {
+                        "_id": "649ac7556069a0ab9bbf47ab",
+                        "title": "ЦЕНТР",
+                        "color": "#",
+                        "kind": "CENTER"
+                    }
+                ],
+                "foot": 0,
+                "auto": 55,
+                "subway": 0,
+                "km": 45
+            }
+        ],
+        "coverImg": {
+            "_id": "67c1992222ee58045a8e3e8d",
+            "src": "https://fsk-uploads.hb.bizmrg.com/production/1726821790663-7758d8c90b3d109b9ecc282d92f87cd1.jpg"
+        },
+        "coverImgMobile": {
+            "_id": "67c1992222ee58045a8e3e8e",
+            "src": "https://fsk-uploads.hb.bizmrg.com/production/1726821727381-939acdfbe4c93bae8ab5ad434a9c9154.png"
+        },
+        "logoPreviewWidth": 320
+    },
+    {
+        "_id": "644a4c5a84298a7b2aabae8f",
+        "title": "Жаворонки Клаб",
+        "slug": "zhavoronki-club",
+        "img": "https://fsk-uploads.hb.bizmrg.com/production/1695035239594-2cb4edec02ca256edbd819bd3e586532.jpg",
+        "imgDouble": "https://fsk-uploads.hb.bizmrg.com/production/1695035171665-2cb4edec02ca256edbd819bd3e586532.jpg",
+        "city": 1,
+        "logo": "https://fsk-uploads.hb.bizmrg.com/production/1695298806065-e748aed010ecac2ea880964a7245a443.png",
+        "logoPreview": "https://fsk-uploads.hb.bizmrg.com/production/1726653145717-79704d05577b4015d544d9eb5838146a.svg",
+        "client": [
+            "FSK"
+        ],
+        "priceMin": 6554979,
+        "priceMax": 23905884,
+        "areaMin": 28.75,
+        "areaMax": 90.69,
+        "areaLandMin": 0,
+        "areaLandMax": 0,
+        "flats": 170,
+        "flatsBuilt": 0,
+        "flatsBooking": 170,
+        "flatsFurniture": 0,
+        "flatsFinishing": 147,
+        "flatsView": 0,
+        "projectClass": 1,
+        "complexClass": 1,
+        "kind": [
+            "SUBURBAN",
+            "LIVING"
+        ],
+        "geo": [
+            37.109212941802895,
+            55.60961392794978
+        ],
+        "rooms": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "deliveryDateMin": "2025-05-30T21:00:00.000Z",
+        "deliveryDateMax": "2026-09-29T21:00:00.000Z",
+        "finishing": [
+            0,
+            1,
+            3
+        ],
+        "flatsFeatures": [
+            {
+                "title": "Квартира с антресолью"
+            },
+            {
+                "title": "Квартира с тамбуром"
+            },
+            {
+                "title": "Квартира с террасой"
+            }
+        ],
+        "percentSold": 0,
+        "floors": [
+            4
+        ],
+        "propertyTypes": [
+            0,
+            7
+        ],
+        "corpusCount": 3,
+        "options": [
+            "SHOW_ON_SUBURBAN",
+            "SHOW_TRAITS",
+            "FLAT_GROUPS"
+        ],
+        "labels": [
+            {
+                "title": "Рассрочка 0%",
+                "color": "#E94200FF",
+                "link": ""
+            },
+            {
+                "title": "Скидки до 20%",
+                "color": "#e94200",
+                "link": ""
+            },
+            {
+                "title": "Клубный поселок",
+                "color": "#2E2E31FF",
+                "link": ""
+            },
+            {
+                "title": "Семейная ипотека",
+                "color": "#2E2E31FF",
+                "link": ""
+            }
+        ],
+        "travel": [
+            {
+                "_id": "67c18edfe0d88f7a531d246e",
+                "from": [
+                    {
+                        "_id": "6619353a3d47e5583cebdf02",
+                        "title": "Санино (D4)",
+                        "color": "#5BAA7F",
+                        "kind": "SUBWAY"
+                    }
+                ],
+                "foot": 0,
+                "auto": 5,
+                "subway": 0,
+                "km": 0
+            },
+            {
+                "_id": "67c18edfe0d88f7a531d246f",
+                "from": [
+                    {
+                        "_id": "649158b2b5e3289022512944",
+                        "title": "МКАД",
+                        "color": "#FAFAFAFB",
+                        "kind": "RING"
+                    }
+                ],
+                "foot": 0,
+                "auto": 0,
+                "subway": 0,
+                "km": 23
+            },
+            {
+                "_id": "67c18edfe0d88f7a531d2470",
+                "from": [
+                    {
+                        "_id": "64907541282a836e56fb59c4",
+                        "title": " ТТК",
+                        "color": "!1976D2FF",
+                        "kind": "RING"
+                    }
+                ],
+                "foot": 0,
+                "auto": 30,
+                "subway": 0,
+                "km": 32
+            },
+            {
+                "_id": "67c18edfe0d88f7a531d2471",
+                "from": [
+                    {
+                        "_id": "649ac7556069a0ab9bbf47ab",
+                        "title": "ЦЕНТР",
+                        "color": "#",
+                        "kind": "CENTER"
+                    }
+                ],
+                "foot": 0,
+                "auto": 40,
+                "subway": 0,
+                "km": 36
+            }
+        ],
+        "coverImg": {
+            "_id": "67c18edfe0d88f7a531d244e",
+            "src": "https://fsk-uploads.hb.bizmrg.com/production/1726821881395-6c8d94bee069ccad90ddb0043a47cba8.jpg"
+        },
+        "coverImgMobile": {
+            "_id": "67c18edfe0d88f7a531d244f",
+            "src": "https://fsk-uploads.hb.bizmrg.com/production/1726821846631-d151815b02108cc5ecbb07da7992d8ef.png"
+        },
+        "logoPreviewWidth": 352
+    },
+    {
+        "_id": "641967f2aa99c06f3716a848",
+        "title": "Сабурово Клаб",
+        "slug": "saburovo-club",
+        "img": "https://fsk-uploads.hb.bizmrg.com/production/1703256711485-b24ba30ffbb262b7051f136d65558810.jpg",
+        "imgDouble": "https://fsk-uploads.hb.bizmrg.com/production/1681641115876-c0df4f3260007d6c228e77f007d13cfe.jpg",
+        "city": 1,
+        "logo": "https://fsk-uploads.hb.bizmrg.com/production/1679398942507-e62c46a86000640b4a286c8921bcb500.png",
+        "logoPreview": "https://fsk-uploads.hb.bizmrg.com/production/1726653848288-d77321475e20322910c6bfc197d03525.svg",
+        "client": [
+            "FSK"
+        ],
+        "priceMin": 32543910,
+        "priceMax": 111058200,
+        "areaMin": 128.9,
+        "areaMax": 256,
+        "areaLandMin": 5.09,
+        "areaLandMax": 11.85,
+        "flats": 28,
+        "flatsBuilt": 10,
+        "flatsBooking": 26,
+        "flatsFurniture": 0,
+        "flatsFinishing": 5,
+        "flatsView": 0,
+        "projectClass": 1,
+        "complexClass": 1,
+        "kind": [
+            "SUBURBAN",
+            "LIVING"
+        ],
+        "geo": [
+            37.2633360724093,
+            55.88207865752544
+        ],
+        "rooms": [
+            4,
+            5
+        ],
+        "deliveryDateMin": "2025-02-27T21:00:00.000Z",
+        "deliveryDateMax": "2026-07-29T21:00:00.000Z",
+        "finishing": [
+            0,
+            1
+        ],
+        "flatsFeatures": [
+            {
+                "title": "Дополнительный вход"
+            },
+            {
+                "title": "Квартира с возможностью установки камина"
+            },
+            {
+                "title": "Квартира с возможностью установки сауны"
+            },
+            {
+                "title": "Квартира с кладовой при кухне"
+            },
+            {
+                "title": "Квартира с кухней-гостиной"
+            },
+            {
+                "title": "Квартира с нестандартными большими окнами"
+            },
+            {
+                "title": "Квартира с гардеробной"
+            },
+            {
+                "title": "Квартира с мастер-спальней"
+            },
+            {
+                "title": "Квартира с окном в ванной"
+            },
+            {
+                "title": "Квартира со вторым светом"
+            },
+            {
+                "title": "Квартира с рабочим кабинетом"
+            },
+            {
+                "title": "Квартира с кладовой под лестницей"
+            },
+            {
+                "title": "Квартира с окнами в пол на 1 этаже"
+            },
+            {
+                "title": "Квартира с балконом"
+            }
+        ],
+        "percentSold": 0,
+        "floors": [],
+        "propertyTypes": [
+            4
+        ],
+        "corpusCount": 3,
+        "options": [
+            "SHOW_ON_SUBURBAN",
+            "FLAT_GROUPS",
+            "GENPLAN_VISUAL",
+            "SHOW_TRAITS"
+        ],
+        "labels": [
+            {
+                "title": "Рассрочка 0%",
+                "color": "#E94200FF",
+                "link": ""
+            },
+            {
+                "title": "Скидки до 20%",
+                "color": "#E94200FF",
+                "link": ""
+            },
+            {
+                "title": "Семейная ипотека",
+                "color": "#2E2E31FF",
+                "link": ""
+            },
+            {
+                "title": "Поселок бизнес-класса",
+                "color": "#2E2E31FF",
+                "link": ""
+            }
+        ],
+        "travel": [
+            {
+                "_id": "67c186a49c955059960dd802",
+                "from": [
+                    {
+                        "_id": "649158b2b5e3289022512944",
+                        "title": "МКАД",
+                        "color": "#FAFAFAFB",
+                        "kind": "RING"
+                    }
+                ],
+                "foot": 0,
+                "auto": 0,
+                "subway": 0,
+                "km": 14
+            },
+            {
+                "_id": "67c186a49c955059960dd803",
+                "from": [
+                    {
+                        "_id": "6490a5ef282a836e5607f13d",
+                        "title": "Пятницкое шоссе",
+                        "color": "#0072BA",
+                        "geo": [
+                            37.353108,
+                            55.853634
+                        ],
+                        "kind": "SUBWAY"
+                    }
+                ],
+                "foot": 0,
+                "auto": 10,
+                "subway": 0,
+                "km": 0
+            },
+            {
+                "_id": "67c186a49c955059960dd804",
+                "from": [
+                    {
+                        "_id": "64907541282a836e56fb59c4",
+                        "title": " ТТК",
+                        "color": "!1976D2FF",
+                        "kind": "RING"
+                    }
+                ],
+                "foot": 0,
+                "auto": 47,
+                "subway": 0,
+                "km": 26
+            },
+            {
+                "_id": "67c186a49c955059960dd805",
+                "from": [
+                    {
+                        "_id": "649ac7556069a0ab9bbf47ab",
+                        "title": "ЦЕНТР",
+                        "color": "#",
+                        "kind": "CENTER"
+                    }
+                ],
+                "foot": 0,
+                "auto": 55,
+                "subway": 0,
+                "km": 45
+            }
+        ],
+        "coverImg": {
+            "_id": "67c186a49c955059960dd82e",
+            "src": "https://fsk-uploads.hb.bizmrg.com/production/1726822057517-9565a73395cf203bc7b01c4e052a7512.png"
+        },
+        "coverImgMobile": {
+            "_id": "67c186a49c955059960dd82d",
+            "src": "https://fsk-uploads.hb.bizmrg.com/production/1726822013022-6ccd195a689c37554283e5c29b080ee6.png"
+        },
+        "logoPreviewWidth": 320
+    },
+    {
+        "_id": "6050c6c4cb6cdb4761623f7f",
+        "title": "Настроение",
+        "slug": "nastroenie",
+        "img": "https://fsk-uploads.hb.bizmrg.com/production/61699046235a4_454c425750a78ea942e720e0558353c2.png",
+        "imgDouble": "https://fsk-uploads.hb.bizmrg.com/production/5f36ad7176371_5ece44b6114f318426f540573a559e5d.jpg",
+        "city": 1,
+        "logo": "https://fsk-uploads.hb.bizmrg.com/production/60083a779c203_e05304e1ea21ac190059192c3d58e70d.png",
+        "logoPreview": "https://fsk-uploads.hb.bizmrg.com/production/1726653365681-32034fef73a7ccbcd60b4a102a8cb253.svg",
+        "client": [
+            "FSK"
+        ],
+        "priceMin": 10968100,
+        "priceMax": 26842515,
+        "areaMin": 25,
+        "areaMax": 81.3,
+        "areaLandMin": 0,
+        "areaLandMax": 0,
+        "flats": 24,
+        "flatsBuilt": 24,
+        "flatsBooking": 1,
+        "flatsFurniture": 0,
+        "flatsFinishing": 441,
+        "flatsView": 0,
+        "projectClass": 1,
+        "complexClass": 1,
+        "kind": [
+            "LIVING"
+        ],
+        "geo": [
+            37.68365792460626,
+            55.84998796444669
+        ],
+        "rooms": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "deliveryDateMin": "2021-07-04T21:00:00.000Z",
+        "deliveryDateMax": "2021-07-04T21:00:00.000Z",
+        "finishing": [
+            0,
+            1
+        ],
+        "flatsFeatures": [
+            {
+                "title": "Студия"
+            },
+            {
+                "title": "Квартира с французским балконом"
+            }
+        ],
+        "percentSold": 0,
+        "floors": [
+            12,
+            17,
+            22,
+            8
+        ],
+        "propertyTypes": [
+            0,
+            7
+        ],
+        "corpusCount": 4,
+        "options": [
+            "ARCHIVE",
+            "SHOW_TRAITS"
+        ],
+        "labels": [
+            {
+                "title": "Ипотека от 2%",
+                "color": "#E94200FF",
+                "link": ""
+            },
+            {
+                "title": "Скидки до 7%",
+                "color": "#E94200FF",
+                "link": ""
+            },
+            {
+                "title": "Дома сданы",
+                "color": "#2e2e31",
+                "link": ""
+            }
+        ],
+        "travel": [
+            {
+                "_id": "67bebb98d52e1b49bdcf7e8a",
+                "from": [
+                    {
+                        "_id": "6490ac8a282a836e56098fe8",
+                        "title": "Ростокино",
+                        "color": "#F9BCD1",
+                        "geo": [
+                            37.667778,
+                            55.839444
+                        ],
+                        "kind": "SUBWAY"
+                    }
+                ],
+                "foot": 15,
+                "auto": 0,
+                "subway": 0,
+                "km": 0
+            },
+            {
+                "_id": "67bebb98d52e1b49bdcf7e8b",
+                "from": [
+                    {
+                        "_id": "64907541282a836e56fb59c4",
+                        "title": " ТТК",
+                        "color": "!1976D2FF",
+                        "kind": "RING"
+                    }
+                ],
+                "foot": 0,
+                "auto": 15,
+                "subway": 0,
+                "km": 0
+            },
+            {
+                "_id": "67bebb98d52e1b49bdcf7e8c",
+                "from": [
+                    {
+                        "_id": "649ac7556069a0ab9bbf47ab",
+                        "title": "ЦЕНТР",
+                        "color": "#",
+                        "kind": "CENTER"
+                    }
+                ],
+                "foot": 0,
+                "auto": 25,
+                "subway": 0,
+                "km": 0
+            }
+        ],
+        "coverImg": {
+            "_id": "67bebb98d52e1b49bdcf7e71",
+            "src": "https://fsk-uploads.hb.bizmrg.com/production/1726821938660-68b32e37b0ca175268724ea08685e65b.jpg"
+        },
+        "coverImgMobile": {
+            "_id": "67bebb98d52e1b49bdcf7e72",
+            "src": "https://fsk-uploads.hb.bizmrg.com/production/1726821925741-ad07269fdc96c950c3a2a96b409256f2.png"
+        },
+        "yearDelivery": 2021,
+        "logoPreviewWidth": 320
+    },
+    {
+        "_id": "6050c6c4cb6cdb4761623fbf",
+        "title": "Сколковский",
+        "slug": "skolkovskiy",
+        "img": "https://fsk-uploads.hb.bizmrg.com/production/61697b908f1a3_06e5af758aa1c2d9cce374f2cfb85f10.png",
+        "imgDouble": "https://fsk-uploads.hb.bizmrg.com/production/5dd4ee5f4c25e_93a9f5479cc6e13e3d9050fcc5257cac.jpg",
+        "city": 1,
+        "logo": "https://fsk-uploads.hb.bizmrg.com/production/60083c527845f_874837b758060df61831f3693de6d134.png",
+        "logoPreview": "https://fsk-uploads.hb.bizmrg.com/production/1726653683296-c21083b1122d96e6a17d204aeb90cb8d.svg",
+        "client": [
+            "FSK"
+        ],
+        "priceMin": 0,
+        "priceMax": 0,
+        "areaMin": 0,
+        "areaMax": 0,
+        "areaLandMin": 0,
+        "areaLandMax": 0,
+        "flats": 0,
+        "flatsBuilt": 0,
+        "flatsBooking": 0,
+        "flatsFurniture": 721,
+        "flatsFinishing": 2419,
+        "flatsView": 0,
+        "projectClass": 1,
+        "complexClass": 1,
+        "kind": [
+            "COMMERCE",
+            "LIVING"
+        ],
+        "geo": [
+            37.31857997602269,
+            55.70072641165287
+        ],
+        "rooms": [],
+        "deliveryDateMin": "2021-05-24T21:00:00.000Z",
+        "deliveryDateMax": "2021-05-24T21:00:00.000Z",
+        "finishing": [],
+        "flatsFeatures": [],
+        "percentSold": 0,
+        "floors": [
+            17,
+            19,
+            22,
+            25
+        ],
+        "propertyTypes": [],
+        "corpusCount": 21,
+        "options": [
+            "ARCHIVE",
+            "SHOW_TRAITS"
+        ],
+        "labels": [
+            {
+                "title": "Готовый паркинг: Скидки до 20%",
+                "color": "#e94200",
+                "link": ""
+            },
+            {
+                "title": "Выгодная рассрочка",
+                "color": "#2e2e31",
+                "link": ""
+            }
+        ],
+        "travel": [
+            {
+                "_id": "670cd1f9a450daf529a0dc44",
+                "from": [
+                    {
+                        "_id": "6490adb9282a836e5609de7d",
+                        "title": "Славянский бульвар",
+                        "color": "#0072BA",
+                        "geo": [
+                            37.470973,
+                            55.729542
+                        ],
+                        "kind": "SUBWAY"
+                    }
+                ],
+                "foot": 0,
+                "auto": 15,
+                "subway": 0,
+                "km": 0
+            },
+            {
+                "_id": "670cd1f9a450daf529a0dc45",
+                "from": [
+                    {
+                        "_id": "6490ae17282a836e5609f913",
+                        "title": "Сколково (D1)",
+                        "color": "#F7A500FF",
+                        "kind": "RAILWAY"
+                    }
+                ],
+                "foot": 15,
+                "auto": 0,
+                "subway": 0,
+                "km": 0
+            },
+            {
+                "_id": "670cd1f9a450daf529a0dc46",
+                "from": [
+                    {
+                        "_id": "6490ae49282a836e560a042b",
+                        "title": "Кунцевская",
+                        "color": "#1EBCEF",
+                        "geo": [
+                            37.446754,
+                            55.730815
+                        ],
+                        "kind": "SUBWAY"
+                    }
+                ],
+                "foot": 0,
+                "auto": 19,
+                "subway": 0,
+                "km": 0
+            }
+        ],
+        "coverImg": {
+            "_id": "670cd1f9a450daf529a0dc0c",
+            "src": "https://fsk-uploads.hb.bizmrg.com/production/1726820866031-ad8b468b0b5ba33eb608b837a26e48c4.jpg"
+        },
+        "coverImgMobile": {
+            "_id": "670cd1f9a450daf529a0dc0d",
+            "src": "https://fsk-uploads.hb.bizmrg.com/production/1726820554921-1ccb756d5101405352a0d4fb50828f44.png"
+        },
+        "yearDelivery": 2021,
+        "logoPreviewWidth": 320
+    },
+    {
+        "_id": "6050c6c4cb6cdb4761623f8f",
+        "title": "Дом Дыхание",
+        "slug": "domdyhanie",
+        "img": "https://fsk-uploads.hb.bizmrg.com/production/616990e3b5e36_fdd54c02ac75dfcdb66060e701157c54.png",
+        "imgDouble": "https://fsk-uploads.hb.bizmrg.com/production/5dd4f02603d6f_a4997ceeb4ac54d90ae4b0bae1a2280c.jpg",
+        "city": 1,
+        "logo": "https://fsk-uploads.hb.bizmrg.com/production/60083d6b267af_8326a49a180cca86b7bef9a53738cfe9.png",
+        "logoPreview": "https://fsk-uploads.hb.bizmrg.com/production/1726653940519-108ac3de45740a283c226184fdeaff82.svg",
+        "client": [
+            "FSK"
+        ],
+        "priceMin": 0,
+        "priceMax": 0,
+        "areaMin": 0,
+        "areaMax": 0,
+        "areaLandMin": 0,
+        "areaLandMax": 0,
+        "flats": 0,
+        "flatsBuilt": 0,
+        "flatsBooking": 0,
+        "flatsFurniture": 0,
+        "flatsFinishing": 0,
+        "flatsView": 0,
+        "projectClass": 1,
+        "complexClass": 1,
+        "kind": [
+            "LIVING"
+        ],
+        "geo": [
+            37.57262959821933,
+            55.817329561276495
+        ],
+        "rooms": [],
+        "deliveryDateMin": "1970-01-01T00:00:00.000Z",
+        "deliveryDateMax": "1970-01-01T00:00:00.000Z",
+        "finishing": [],
+        "flatsFeatures": [],
+        "percentSold": 0,
+        "floors": [],
+        "propertyTypes": [],
+        "corpusCount": 0,
+        "options": [
+            "ARCHIVE",
+            "HIDE_ON_INDEX",
+            "SHOW_TRAITS"
+        ],
+        "labels": [
+            {
+                "title": "Премиум-класс",
+                "color": "#2e2e31",
+                "link": ""
+            }
+        ],
+        "travel": [
+            {
+                "_id": "67ac523477c4dff9533d699b",
+                "from": [
+                    {
+                        "_id": "6490aee0282a836e560a2b18",
+                        "title": "Тимирязевская",
+                        "color": "#006DA8",
+                        "geo": [
+                            37.578882,
+                            55.819049
+                        ],
+                        "kind": "SUBWAY"
+                    }
+                ],
+                "foot": 2,
+                "auto": 0,
+                "subway": 0,
+                "km": 0
+            }
+        ],
+        "yearDelivery": 2015,
+        "logoPreviewWidth": 248
+    },
+    {
+        "_id": "6050c6c4cb6cdb4761623fa5",
+        "title": "Поколение",
+        "slug": "pokolenie",
+        "img": "https://fsk-uploads.hb.bizmrg.com/production/5f36b7cd1e321_5ba499b41b51ad7154f12cefff78891c.jpg",
+        "imgDouble": "https://fsk-uploads.hb.bizmrg.com/production/5dd4efc9ba86d_1e86317ebcf9189155baf17dd026aeec.jpg",
+        "city": 1,
+        "logo": "",
+        "client": [
+            "FSK"
+        ],
+        "priceMin": 0,
+        "priceMax": 0,
+        "areaMin": 0,
+        "areaMax": 0,
+        "areaLandMin": 0,
+        "areaLandMax": 0,
+        "flats": 0,
+        "flatsBuilt": 0,
+        "flatsBooking": 0,
+        "flatsFurniture": 358,
+        "flatsFinishing": 598,
+        "flatsView": 0,
+        "projectClass": 1,
+        "complexClass": 1,
+        "kind": [
+            "COMMERCE"
+        ],
+        "geo": [
+            37.57528712698359,
+            55.8507428381872
+        ],
+        "rooms": [],
+        "deliveryDateMin": "2019-04-02T21:00:00.000Z",
+        "deliveryDateMax": "2019-04-02T21:00:00.000Z",
+        "finishing": [],
+        "flatsFeatures": [],
+        "percentSold": 0,
+        "floors": [
+            16,
+            18,
+            20
+        ],
+        "propertyTypes": [],
+        "corpusCount": 4,
+        "options": [
+            "ARCHIVE"
+        ],
+        "labels": [],
+        "travel": [
+            {
+                "_id": "67aca04f1e58901880a0d773",
+                "from": [
+                    {
+                        "_id": "6490af8d282a836e560a576c",
+                        "title": "Окружная",
+                        "color": "#BED12C",
+                        "geo": [
+                            37.571111,
+                            55.848889
+                        ],
+                        "kind": "SUBWAY"
+                    }
+                ],
+                "foot": 7,
+                "auto": 0,
+                "subway": 0,
+                "km": 0
+            }
+        ],
+        "yearDelivery": 2020
+    },
+    {
+        "_id": "6050c6c4cb6cdb4761623f79",
+        "title": "Новое Тушино",
+        "slug": "novoe-tushino",
+        "img": "https://fsk-uploads.hb.bizmrg.com/production/608a960cc3aec_afef4f6f7818d1f5cbe8b98719b9a04e.jpg",
+        "imgDouble": "https://fsk-uploads.hb.bizmrg.com/production/608a96cfe4f8f_c9621c62dcbc7dbe9c7aed08dede5c2c.jpg",
+        "city": 1,
+        "logo": "https://fsk-uploads.hb.bizmrg.com/production/600840195b800_80331de9e079bff68b6c68d6e70039ff.png",
+        "client": [
+            "FSK"
+        ],
+        "priceMin": 11567500,
+        "priceMax": 11567500,
+        "areaMin": 66.1,
+        "areaMax": 66.1,
+        "areaLandMin": 0,
+        "areaLandMax": 0,
+        "flats": 1,
+        "flatsBuilt": 1,
+        "flatsBooking": 0,
+        "flatsFurniture": 260,
+        "flatsFinishing": 1270,
+        "flatsView": 0,
+        "projectClass": 1,
+        "complexClass": 1,
+        "kind": [
+            "COMMERCE"
+        ],
+        "geo": [
+            37.396070647162624,
+            55.86614153407771
+        ],
+        "rooms": [
+            2
+        ],
+        "deliveryDateMin": "2015-04-09T21:00:00.000Z",
+        "deliveryDateMax": "2015-04-09T21:00:00.000Z",
+        "finishing": [
+            0
+        ],
+        "flatsFeatures": [],
+        "percentSold": 0,
+        "floors": [
+            17,
+            18,
+            20,
+            21,
+            22
+        ],
+        "propertyTypes": [
+            0
+        ],
+        "corpusCount": 8,
+        "options": [
+            "ARCHIVE"
+        ],
+        "labels": [],
+        "travel": [],
+        "yearDelivery": 2018
+    },
+    {
+        "_id": "6050c6c4cb6cdb4761623f89",
+        "title": "Новогиреевский",
+        "slug": "novogireevskii",
+        "img": "https://fsk-uploads.hb.bizmrg.com/production/61697180c381e_cbf2591a010f5ed79d2d02f40b9924a2.png",
+        "imgDouble": "https://fsk-uploads.hb.bizmrg.com/production/5dd4f13bcea53_0e492ba381a8589c7974e0e300b8c6fe.jpg",
+        "city": 1,
+        "logo": "https://fsk-uploads.hb.bizmrg.com/production/5a31a1d8dc1b7_29e8972145a4b39e0362015bf6aedf48.jpg",
+        "client": [
+            "FSK"
+        ],
+        "priceMin": 0,
+        "priceMax": 0,
+        "areaMin": 0,
+        "areaMax": 0,
+        "areaLandMin": 0,
+        "areaLandMax": 0,
+        "flats": 0,
+        "flatsBuilt": 0,
+        "flatsBooking": 0,
+        "flatsFurniture": 0,
+        "flatsFinishing": 970,
+        "flatsView": 0,
+        "projectClass": 1,
+        "complexClass": 1,
+        "kind": [
+            "COMMERCE"
+        ],
+        "geo": [
+            37.88654371827304,
+            55.79232259996396
+        ],
+        "rooms": [],
+        "deliveryDateMin": "1970-01-01T00:00:00.000Z",
+        "deliveryDateMax": "1970-01-01T00:00:00.000Z",
+        "finishing": [],
+        "flatsFeatures": [],
+        "percentSold": 0,
+        "floors": [
+            13,
+            17,
+            18,
+            20,
+            22,
+            23,
+            24,
+            25,
+            9
+        ],
+        "propertyTypes": [],
+        "corpusCount": 8,
+        "options": [
+            "ARCHIVE",
+            "HIDE_IN_EXPORT"
+        ],
+        "labels": [],
+        "travel": [],
+        "yearDelivery": 2018
+    },
+    {
+        "_id": "6050c6c4cb6cdb4761623fb1",
+        "title": "Зодиак",
+        "slug": "zodiac",
+        "img": "https://fsk-uploads.hb.bizmrg.com/production/5d84d932acdfb_da4c74b026c696d83ea7230036cd680d.jpg",
+        "city": 1,
+        "logo": "https://fsk-uploads.hb.bizmrg.com/production/5a31a1d8dc1b7_29e8972145a4b39e0362015bf6aedf48.jpg",
+        "client": [
+            "FSK"
+        ],
+        "priceMin": 0,
+        "priceMax": 0,
+        "areaMin": 0,
+        "areaMax": 0,
+        "areaLandMin": 0,
+        "areaLandMax": 0,
+        "flats": 0,
+        "flatsBuilt": 0,
+        "flatsBooking": 0,
+        "flatsFurniture": 0,
+        "flatsFinishing": 0,
+        "flatsView": 0,
+        "projectClass": 1,
+        "complexClass": 1,
+        "kind": [],
+        "geo": [
+            37,
+            55
+        ],
+        "rooms": [],
+        "finishing": [],
+        "flatsFeatures": [],
+        "percentSold": 0,
+        "floors": [],
+        "propertyTypes": [],
+        "corpusCount": 0,
+        "options": [
+            "ARCHIVE",
+            "HIDE_IN_EXPORT",
+            "HIDE_ON_INDEX"
+        ],
+        "labels": [],
+        "travel": [],
+        "yearDelivery": 2011
+    },
+    {
+        "_id": "6050c6c4cb6cdb4761623f77",
+        "title": "M-House",
+        "slug": "m-house",
+        "img": "https://fsk-uploads.hb.bizmrg.com/production/5d84d0b5330a0_86bdec10fa57bcfa7caec617dc6b173f.jpg",
+        "city": 1,
+        "logo": "https://fsk-uploads.hb.bizmrg.com/production/5a31a1d8dc1b7_29e8972145a4b39e0362015bf6aedf48.jpg",
+        "client": [
+            "FSK"
+        ],
+        "priceMin": 0,
+        "priceMax": 0,
+        "areaMin": 0,
+        "areaMax": 0,
+        "areaLandMin": 0,
+        "areaLandMax": 0,
+        "flats": 0,
+        "flatsBuilt": 0,
+        "flatsBooking": 0,
+        "flatsFurniture": 0,
+        "flatsFinishing": 0,
+        "flatsView": 0,
+        "projectClass": 1,
+        "complexClass": 1,
+        "kind": [],
+        "geo": [
+            37,
+            55
+        ],
+        "rooms": [],
+        "finishing": [],
+        "flatsFeatures": [],
+        "percentSold": 0,
+        "floors": [],
+        "propertyTypes": [],
+        "corpusCount": 0,
+        "options": [
+            "ARCHIVE",
+            "HIDE_IN_EXPORT",
+            "HIDE_ON_INDEX"
+        ],
+        "labels": [],
+        "travel": [],
+        "yearDelivery": 2014
+    },
+    {
+        "_id": "6050c6c4cb6cdb4761623fc5",
+        "title": "Vita Verde",
+        "slug": "vita_verde",
+        "img": "https://fsk-uploads.hb.bizmrg.com/production/5d84d21c72bac_d223cdace00cd3b797f17b84490fa020.jpg",
+        "city": 1,
+        "logo": "https://fsk-uploads.hb.bizmrg.com/production/5a31a1d8dc1b7_29e8972145a4b39e0362015bf6aedf48.jpg",
+        "client": [
+            "FSK"
+        ],
+        "priceMin": 0,
+        "priceMax": 0,
+        "areaMin": 0,
+        "areaMax": 0,
+        "areaLandMin": 0,
+        "areaLandMax": 0,
+        "flats": 0,
+        "flatsBuilt": 0,
+        "flatsBooking": 0,
+        "flatsFurniture": 0,
+        "flatsFinishing": 0,
+        "flatsView": 0,
+        "projectClass": 1,
+        "complexClass": 1,
+        "kind": [],
+        "geo": [
+            37,
+            56
+        ],
+        "rooms": [],
+        "finishing": [],
+        "flatsFeatures": [],
+        "percentSold": 0,
+        "floors": [],
+        "propertyTypes": [],
+        "corpusCount": 0,
+        "options": [
+            "ARCHIVE",
+            "HIDE_IN_EXPORT"
+        ],
+        "labels": [],
+        "travel": [],
+        "yearDelivery": 2013
+    },
+    {
+        "_id": "6050c6c4cb6cdb4761623fb3",
+        "title": "Новое Измайлово 2",
+        "slug": "novoe-izmajlovo-2",
+        "img": "https://fsk-uploads.hb.bizmrg.com/production/1739348938445-674ebf050a5ee3e12db625ecf1ff050a.jpg",
+        "imgDouble": "https://fsk-uploads.hb.bizmrg.com/production/1739346620791-837094c47aafd3949926444752a1cdae.jpg",
+        "city": 1,
+        "logo": "",
+        "client": [
+            "FSK"
+        ],
+        "priceMin": 0,
+        "priceMax": 0,
+        "areaMin": 0,
+        "areaMax": 0,
+        "areaLandMin": 0,
+        "areaLandMax": 0,
+        "flats": 0,
+        "flatsBuilt": 0,
+        "flatsBooking": 0,
+        "flatsFurniture": 0,
+        "flatsFinishing": 74,
+        "flatsView": 0,
+        "projectClass": 1,
+        "complexClass": 1,
+        "kind": [
+            "COMMERCE"
+        ],
+        "geo": [
+            37.97430200798486,
+            55.79234176409531
+        ],
+        "rooms": [],
+        "deliveryDateMin": "1970-01-01T00:00:00.000Z",
+        "deliveryDateMax": "1970-01-01T00:00:00.000Z",
+        "finishing": [],
+        "flatsFeatures": [],
+        "percentSold": 0,
+        "floors": [
+            14,
+            20,
+            21,
+            25
+        ],
+        "propertyTypes": [],
+        "corpusCount": 3,
+        "options": [
+            "ARCHIVE"
+        ],
+        "labels": [],
+        "travel": [],
+        "yearDelivery": 2018
+    },
+    {
+        "_id": "6050c6c4cb6cdb4761623fd3",
+        "title": "Молодежный",
+        "slug": "kaluga-18",
+        "img": "https://fsk-uploads.hb.bizmrg.com/production/608930be3fccf_c4a536f2de385a0c4f0fcf29d694d878.jpg",
+        "imgDouble": "https://fsk-uploads.hb.bizmrg.com/production/608930be7813e_02916e1bf663020c80500272d56bf587.jpg",
+        "city": 3,
+        "logo": "https://fsk-uploads.hb.bizmrg.com/production/1672413169742-51786e9fe749d0a412899cc6de1c3eef.png",
+        "logoPreview": "https://fsk-uploads.hb.bizmrg.com/production/1726652961671-2e80e4fb7072418501fa4a57e5eb036e.svg",
+        "client": [
+            "FSK"
+        ],
+        "priceMin": 0,
+        "priceMax": 0,
+        "areaMin": 0,
+        "areaMax": 0,
+        "areaLandMin": 0,
+        "areaLandMax": 0,
+        "flats": 0,
+        "flatsBuilt": 0,
+        "flatsBooking": 0,
+        "flatsFurniture": 0,
+        "flatsFinishing": 121,
+        "flatsView": 0,
+        "projectClass": 1,
+        "complexClass": 1,
+        "kind": [
+            "LIVING"
+        ],
+        "geo": [
+            36.304823555225354,
+            54.53414845420398
+        ],
+        "rooms": [],
+        "deliveryDateMin": "2022-12-12T21:00:00.000Z",
+        "deliveryDateMax": "2022-12-12T21:00:00.000Z",
+        "finishing": [],
+        "flatsFeatures": [],
+        "percentSold": 0,
+        "floors": [
+            17,
+            18,
+            19
+        ],
+        "propertyTypes": [],
+        "corpusCount": 4,
+        "options": [
+            "ARCHIVE"
+        ],
+        "labels": [
+            {
+                "title": "Живите сейчас — платите потом",
+                "color": "#e94200",
+                "link": ""
+            },
+            {
+                "title": "Квартиры с ключами",
+                "color": "#2e2e31",
+                "link": ""
+            }
+        ],
+        "travel": [],
+        "logoPreviewWidth": 320
+    },
+    {
+        "_id": "6050c6c4cb6cdb4761623f87",
+        "title": "Олимп",
+        "slug": "olimp",
+        "img": "https://fsk-uploads.hb.bizmrg.com/production/5dd4f291cfd5e_b7d270e6d3f1fab839b39e0880b91b56.jpg",
+        "imgDouble": "https://fsk-uploads.hb.bizmrg.com/production/5f3e62bdd1d91_b7d270e6d3f1fab839b39e0880b91b56.jpg",
+        "city": 3,
+        "logo": "https://fsk-uploads.hb.bizmrg.com/production/1672412129000-b7d25495745368957cdeccde2dec1a08.png",
+        "logoPreview": "https://fsk-uploads.hb.bizmrg.com/production/1726653895168-ee3d07ba798b0f73a2f4ce10b6dcfcbd.svg",
+        "client": [
+            "FSK"
+        ],
+        "priceMin": 4802860,
+        "priceMax": 14288694,
+        "areaMin": 37.5,
+        "areaMax": 92,
+        "areaLandMin": 0,
+        "areaLandMax": 0,
+        "flats": 94,
+        "flatsBuilt": 45,
+        "flatsBooking": 65,
+        "flatsFurniture": 0,
+        "flatsFinishing": 1446,
+        "flatsView": 0,
+        "projectClass": 1,
+        "complexClass": 1,
+        "kind": [
+            "LIVING"
+        ],
+        "geo": [
+            36.566419671363164,
+            55.12439482338379
+        ],
+        "rooms": [
+            1,
+            2,
+            3
+        ],
+        "deliveryDateMin": "2021-01-28T21:00:00.000Z",
+        "deliveryDateMax": "2026-09-29T21:00:00.000Z",
+        "finishing": [
+            0,
+            1,
+            3
+        ],
+        "flatsFeatures": [
+            {
+                "title": "Квартира с большой ванной комнатой"
+            },
+            {
+                "title": "Квартира с увеличенным числом окон"
+            }
+        ],
+        "percentSold": 0,
+        "floors": [
+            20,
+            22,
+            24,
+            25
+        ],
+        "propertyTypes": [
+            0
+        ],
+        "corpusCount": 8,
+        "options": [],
+        "labels": [
+            {
+                "title": "Внесите больше — платите меньше",
+                "color": "#e94200",
+                "link": ""
+            },
+            {
+                "title": "Старт продаж нового корпуса",
+                "color": "#2E2E31FF",
+                "link": ""
+            }
+        ],
+        "travel": [],
+        "logoPreviewWidth": 260
+    },
+    {
+        "_id": "6050c6c4cb6cdb4761623f71",
+        "title": "Дружба",
+        "slug": "druzhba",
+        "img": "https://fsk-uploads.hb.bizmrg.com/production/621dd7678ef4a_098dcbba1d9265d653914d51748a3c7c.jpg",
+        "imgDouble": "https://fsk-uploads.hb.bizmrg.com/production/621dd70f9629a_098dcbba1d9265d653914d51748a3c7c.jpg",
+        "city": 3,
+        "logo": "https://fsk-uploads.hb.bizmrg.com/production/1672413058915-3f601c1a8ca892dab9c11175a034b5e7.png",
+        "logoPreview": "https://fsk-uploads.hb.bizmrg.com/production/1726652508666-aba3a6df2a671e44b4025bb653acdfaf.svg",
+        "client": [
+            "FSK"
+        ],
+        "priceMin": 4573952,
+        "priceMax": 5548251,
+        "areaMin": 51.2,
+        "areaMax": 65.5,
+        "areaLandMin": 0,
+        "areaLandMax": 0,
+        "flats": 2,
+        "flatsBuilt": 2,
+        "flatsBooking": 0,
+        "flatsFurniture": 0,
+        "flatsFinishing": 0,
+        "flatsView": 0,
+        "projectClass": 1,
+        "complexClass": 1,
+        "kind": [
+            "LIVING"
+        ],
+        "geo": [
+            36.31502218742624,
+            54.56878872221993
+        ],
+        "rooms": [
+            1,
+            2
+        ],
+        "deliveryDateMin": "2023-07-26T21:00:00.000Z",
+        "deliveryDateMax": "2023-07-26T21:00:00.000Z",
+        "finishing": [
+            0
+        ],
+        "flatsFeatures": [
+            {
+                "title": "Квартира с увеличенным числом окон"
+            },
+            {
+                "title": "Квартира европейского формата"
+            },
+            {
+                "title": "Квартира с большой ванной комнатой"
+            }
+        ],
+        "percentSold": 0,
+        "floors": [
+            14,
+            4,
+            8
+        ],
+        "propertyTypes": [
+            0
+        ],
+        "corpusCount": 2,
+        "options": [],
+        "labels": [
+            {
+                "title": "Живите сейчас — платите потом",
+                "color": "#e94200",
+                "link": ""
+            },
+            {
+                "title": "Квартиры с ключами",
+                "color": "#2E2E31",
+                "link": ""
+            }
+        ],
+        "travel": [],
+        "logoPreviewWidth": 272
+    },
+    {
+        "_id": "6050c6c4cb6cdb4761623fc1",
+        "title": "ЖК «Западное Кунцево»",
+        "slug": "zk-zapadnoe-kuncevo",
+        "img": "https://fsk-uploads.hb.bizmrg.com/production/1689591962750-e5a5e42cb79f148f4cec5eda16bdeaa4.jpg",
+        "city": 0,
+        "logo": "https://fsk-uploads.hb.bizmrg.com/production/5a31a1d8dc1b7_29e8972145a4b39e0362015bf6aedf48.jpg",
+        "client": [
+            "FSK"
+        ],
+        "priceMin": 0,
+        "priceMax": 0,
+        "areaMin": 0,
+        "areaMax": 0,
+        "areaLandMin": 0,
+        "areaLandMax": 0,
+        "flats": 0,
+        "flatsBuilt": 0,
+        "flatsBooking": 0,
+        "flatsFurniture": 0,
+        "flatsFinishing": 289,
+        "flatsView": 0,
+        "projectClass": 1,
+        "complexClass": 1,
+        "kind": [],
+        "rooms": [],
+        "finishing": [],
+        "flatsFeatures": [],
+        "percentSold": 0,
+        "floors": [],
+        "propertyTypes": [],
+        "corpusCount": 0,
+        "options": [
+            "HIDE_IN_EXPORT",
+            "ARCHIVE",
+            "HIDE_ON_INDEX"
+        ],
+        "labels": [],
+        "travel": [],
+        "yearDelivery": 2015
+    },
+    {
+        "_id": "6050c6c4cb6cdb4761623fbb",
+        "title": "Пушкинский",
+        "slug": "pushkinskij",
+        "img": "https://fsk-uploads.hb.bizmrg.com/production/5c3869a6738bb_36c2f1ad651425e1ed5dc7a931762a1c.jpg",
+        "imgDouble": "https://fsk-uploads.hb.bizmrg.com/production/6165587bc69a5_d5e4dc1c5425e896abd00d7c0a7bfd45.jpg",
+        "city": 2,
+        "logo": "https://fsk-uploads.hb.bizmrg.com/production/5a31a1d8dc1b7_29e8972145a4b39e0362015bf6aedf48.jpg",
+        "client": [
+            "FSK"
+        ],
+        "priceMin": 0,
+        "priceMax": 0,
+        "areaMin": 0,
+        "areaMax": 0,
+        "areaLandMin": 0,
+        "areaLandMax": 0,
+        "flats": 0,
+        "flatsBuilt": 0,
+        "flatsBooking": 0,
+        "flatsFurniture": 0,
+        "flatsFinishing": 0,
+        "flatsView": 0,
+        "projectClass": 1,
+        "complexClass": 1,
+        "kind": [
+            "LIVING"
+        ],
+        "geo": [
+            30,
+            59
+        ],
+        "rooms": [],
+        "finishing": [],
+        "flatsFeatures": [],
+        "percentSold": 0,
+        "floors": [],
+        "propertyTypes": [],
+        "corpusCount": 0,
+        "options": [],
+        "labels": [],
+        "travel": []
+    },
+    {
+        "_id": "63114078de1169fe5da43ea4",
+        "title": "Zoom Черная речка ",
+        "slug": "zoom-river",
+        "img": "https://fsk-uploads.hb.bizmrg.com/production/6310fa9c7256c_a4dfd00c035da7f1a0dba74f32943504.jpg",
+        "imgDouble": "https://fsk-uploads.hb.bizmrg.com/production/6310fa9cc204b_1475f57d326bcf2caed5601e50dd610a.jpg",
+        "city": 2,
+        "logo": "https://fsk-uploads.hb.bizmrg.com/production/5a31a1d8dc1b7_29e8972145a4b39e0362015bf6aedf48.jpg",
+        "client": [
+            "FSK"
+        ],
+        "priceMin": 0,
+        "priceMax": 0,
+        "areaMin": 0,
+        "areaMax": 0,
+        "areaLandMin": 0,
+        "areaLandMax": 0,
+        "flats": 0,
+        "flatsBuilt": 0,
+        "flatsBooking": 0,
+        "flatsFurniture": 0,
+        "flatsFinishing": 0,
+        "flatsView": 0,
+        "projectClass": 1,
+        "complexClass": 1,
+        "kind": [
+            "LIVING"
+        ],
+        "geo": [
+            30,
+            59
+        ],
+        "rooms": [],
+        "finishing": [],
+        "flatsFeatures": [],
+        "percentSold": 0,
+        "floors": [],
+        "propertyTypes": [],
+        "corpusCount": 0,
+        "options": [],
+        "labels": [],
+        "travel": []
+    },
+    {
+        "_id": "631291f8de1169fe5ddda9c2",
+        "title": "Zoom на Неве",
+        "slug": "zoom-na-neve",
+        "img": "https://fsk-uploads.hb.bizmrg.com/production/1676007278637-8850a39b6f1c1e87a8d8ef4b1239eef6.png",
+        "imgDouble": "https://fsk-uploads.hb.bizmrg.com/production/6311f7ccbbdeb_e7ad0b5084049906cdbcf13c322f3c1c.jpg",
+        "city": 2,
+        "client": [
+            "FSK"
+        ],
+        "priceMin": 0,
+        "priceMax": 0,
+        "areaMin": 0,
+        "areaMax": 0,
+        "areaLandMin": 0,
+        "areaLandMax": 0,
+        "flats": 0,
+        "flatsBuilt": 0,
+        "flatsBooking": 0,
+        "flatsFurniture": 0,
+        "flatsFinishing": 0,
+        "flatsView": 0,
+        "projectClass": 1,
+        "complexClass": 1,
+        "kind": [
+            "LIVING"
+        ],
+        "geo": [
+            30,
+            59
+        ],
+        "rooms": [],
+        "finishing": [],
+        "flatsFeatures": [],
+        "percentSold": 0,
+        "propertyTypes": [],
+        "corpusCount": 0,
+        "options": [],
+        "labels": [],
+        "travel": []
+    },
+    {
+        "_id": "6050c6c4cb6cdb4761623f9b",
+        "title": "Best Western Zoom Hotel",
+        "slug": "zoom_apart",
+        "img": "https://fsk-uploads.hb.bizmrg.com/production/607563c54fcb4_020c554667cc6694407735bf4dd55d5c.jpg",
+        "imgDouble": "https://fsk-uploads.hb.bizmrg.com/production/616558269d7b5_bf0f85d0302cb34c9ad22c1ee37d1348.jpg",
+        "city": 2,
+        "logo": "https://fsk-uploads.hb.bizmrg.com/production/5a31a1d8dc1b7_29e8972145a4b39e0362015bf6aedf48.jpg",
+        "client": [
+            "FSK"
+        ],
+        "priceMin": 0,
+        "priceMax": 0,
+        "areaMin": 0,
+        "areaMax": 0,
+        "areaLandMin": 0,
+        "areaLandMax": 0,
+        "flats": 0,
+        "flatsBuilt": 0,
+        "flatsBooking": 0,
+        "flatsFurniture": 0,
+        "flatsFinishing": 0,
+        "flatsView": 0,
+        "projectClass": 1,
+        "complexClass": 1,
+        "geo": [
+            30,
+            59
+        ],
+        "rooms": [],
+        "finishing": [],
+        "flatsFeatures": [],
+        "percentSold": 0,
+        "propertyTypes": [],
+        "corpusCount": 0,
+        "options": [
+            "ARCHIVE",
+            "HIDE_IN_EXPORT",
+            "HIDE_ON_INDEX",
+            "HIDE_ON_LIST"
+        ],
+        "labels": [],
+        "travel": []
+    },
+    {
+        "_id": "6050c6c4cb6cdb4761623fdf",
+        "title": "UP-квартал «Светлановский»",
+        "slug": "svetlanovskiy",
+        "img": "https://fsk-uploads.hb.bizmrg.com/production/5a5c7a5d05b41_ac559c14d15f49336e2757b4f4dc86df.jpg",
+        "imgDouble": "https://fsk-uploads.hb.bizmrg.com/production/6165586320d8a_0bd3b8478f2aa72f9333fe4a0d06d959.jpg",
+        "city": 2,
+        "logo": "https://fsk-uploads.hb.bizmrg.com/production/5a31a1d8dc1b7_29e8972145a4b39e0362015bf6aedf48.jpg",
+        "client": [
+            "FSK"
+        ],
+        "priceMin": 0,
+        "priceMax": 0,
+        "areaMin": 0,
+        "areaMax": 0,
+        "areaLandMin": 0,
+        "areaLandMax": 0,
+        "flats": 0,
+        "flatsBuilt": 0,
+        "flatsBooking": 0,
+        "flatsFurniture": 0,
+        "flatsFinishing": 0,
+        "flatsView": 0,
+        "projectClass": 1,
+        "complexClass": 1,
+        "kind": [],
+        "geo": [
+            30,
+            60
+        ],
+        "rooms": [],
+        "finishing": [],
+        "flatsFeatures": [],
+        "percentSold": 0,
+        "floors": [],
+        "propertyTypes": [],
+        "corpusCount": 0,
+        "options": [
+            "ARCHIVE",
+            "HIDE_IN_EXPORT",
+            "HIDE_ON_INDEX",
+            "HIDE_ON_LIST"
+        ],
+        "labels": [],
+        "travel": []
+    },
+    {
+        "_id": "6050c6c4cb6cdb4761623fab",
+        "title": "UP-квартал «Московский»",
+        "slug": "moskovskiy",
+        "img": "https://fsk-uploads.hb.bizmrg.com/production/5a5c7af7197bf_545b3f3523e6014419c5a59ebea4baf5.jpg",
+        "imgDouble": "https://fsk-uploads.hb.bizmrg.com/production/6165584f1f53f_2363e7a4d3c09e16699e456fb71b61a7.jpg",
+        "city": 2,
+        "logo": "https://fsk-uploads.hb.bizmrg.com/production/5a31a1d8dc1b7_29e8972145a4b39e0362015bf6aedf48.jpg",
+        "client": [
+            "FSK"
+        ],
+        "priceMin": 0,
+        "priceMax": 0,
+        "areaMin": 0,
+        "areaMax": 0,
+        "areaLandMin": 0,
+        "areaLandMax": 0,
+        "flats": 0,
+        "flatsBuilt": 0,
+        "flatsBooking": 0,
+        "flatsFurniture": 0,
+        "flatsFinishing": 0,
+        "flatsView": 0,
+        "projectClass": 1,
+        "complexClass": 1,
+        "kind": [],
+        "geo": [
+            30,
+            59
+        ],
+        "rooms": [],
+        "finishing": [],
+        "flatsFeatures": [],
+        "percentSold": 0,
+        "floors": [],
+        "propertyTypes": [],
+        "corpusCount": 0,
+        "options": [
+            "ARCHIVE",
+            "HIDE_IN_EXPORT",
+            "HIDE_ON_INDEX",
+            "HIDE_ON_LIST"
+        ],
+        "labels": [],
+        "travel": []
+    },
+    {
+        "_id": "6050c6c4cb6cdb4761623fe1",
+        "title": "UP-квартал «Комендантский»",
+        "slug": "komendantskiy",
+        "img": "https://fsk-uploads.hb.bizmrg.com/production/5a5c7b4de58f1_f3223b1d5fcbf8eea13882fd5d80c517.jpg",
+        "imgDouble": "https://fsk-uploads.hb.bizmrg.com/production/61655870acac1_069b087fedab3b215c1a9544c8ac9bd0.jpg",
+        "city": 2,
+        "logo": "https://fsk-uploads.hb.bizmrg.com/production/5a31a1d8dc1b7_29e8972145a4b39e0362015bf6aedf48.jpg",
+        "client": [
+            "FSK"
+        ],
+        "priceMin": 0,
+        "priceMax": 0,
+        "areaMin": 0,
+        "areaMax": 0,
+        "areaLandMin": 0,
+        "areaLandMax": 0,
+        "flats": 0,
+        "flatsBuilt": 0,
+        "flatsBooking": 0,
+        "flatsFurniture": 0,
+        "flatsFinishing": 0,
+        "flatsView": 0,
+        "projectClass": 1,
+        "complexClass": 1,
+        "kind": [],
+        "geo": [
+            30,
+            60
+        ],
+        "rooms": [],
+        "finishing": [],
+        "flatsFeatures": [],
+        "percentSold": 0,
+        "floors": [],
+        "propertyTypes": [],
+        "corpusCount": 0,
+        "options": [
+            "ARCHIVE",
+            "HIDE_IN_EXPORT",
+            "HIDE_ON_INDEX",
+            "HIDE_ON_LIST"
+        ],
+        "labels": [],
+        "travel": []
+    },
+    {
+        "_id": "6437eba92495bb67ad419921",
+        "title": "Новый Московский",
+        "slug": "noviy-moskovskiy",
+        "img": "https://fsk-uploads.hb.bizmrg.com/production/1681386388800-f3ccdd27d2000e3f9255a7e3e2c48800.jpg",
+        "imgDouble": "https://fsk-uploads.hb.bizmrg.com/production/1681386398283-f3ccdd27d2000e3f9255a7e3e2c48800.jpg",
+        "city": 2,
+        "client": [
+            "FSK"
+        ],
+        "priceMin": 0,
+        "priceMax": 0,
+        "areaMin": 0,
+        "areaMax": 0,
+        "areaLandMin": 0,
+        "areaLandMax": 0,
+        "flats": 0,
+        "flatsBuilt": 0,
+        "flatsBooking": 0,
+        "flatsFurniture": 0,
+        "flatsFinishing": 0,
+        "flatsView": 0,
+        "projectClass": 1,
+        "complexClass": 1,
+        "kind": [
+            "LIVING"
+        ],
+        "geo": [
+            30.495078792352,
+            59.75101790122
+        ],
+        "rooms": [],
+        "finishing": [],
+        "flatsFeatures": [],
+        "percentSold": 0,
+        "floors": [],
+        "propertyTypes": [],
+        "corpusCount": 0,
+        "options": [
+            "ARCHIVE"
+        ],
+        "labels": [],
+        "travel": []
+    },
+    {
+        "_id": "649eebefb03f2c19eb941f48",
+        "title": "Флагман Владивосток",
+        "slug": "flagman-vlad",
+        "img": "https://fsk-uploads.hb.bizmrg.com/production/1689592104130-6aff1d1708c11f1f20a432a6a7370438.jpg",
+        "imgDouble": "https://fsk-uploads.hb.bizmrg.com/production/1706864761583-79db8c5b569529f0b681670d7f24697d.jpg",
+        "city": 5,
+        "client": [
+            "FSK"
+        ],
+        "priceMin": 5391804,
+        "priceMax": 18170449,
+        "areaMin": 25.4,
+        "areaMax": 122.4,
+        "areaLandMin": 0,
+        "areaLandMax": 0,
+        "flats": 108,
+        "flatsBuilt": 0,
+        "flatsBooking": 0,
+        "flatsFurniture": 0,
+        "flatsFinishing": 614,
+        "flatsView": 9,
+        "projectClass": 1,
+        "complexClass": 1,
+        "kind": [
+            "LIVING"
+        ],
+        "geo": [
+            131.9482202539672,
+            43.16515377083225
+        ],
+        "rooms": [
+            0,
+            1,
+            2,
+            3,
+            4
+        ],
+        "deliveryDateMin": "2026-03-30T21:00:00.000Z",
+        "deliveryDateMax": "2026-03-30T21:00:00.000Z",
+        "finishing": [
+            3
+        ],
+        "flatsFeatures": [
+            {
+                "title": "Вид на торговые павильоны, парковку"
+            },
+            {
+                "title": "Квартира с балконом"
+            },
+            {
+                "title": "Квартира с двумя балконами"
+            },
+            {
+                "title": "Квартира с гардеробной"
+            },
+            {
+                "title": "Вид в корпус"
+            }
+        ],
+        "percentSold": 0,
+        "floors": [
+            12,
+            22,
+            24
+        ],
+        "propertyTypes": [
+            0,
+            7
+        ],
+        "corpusCount": 4,
+        "options": [
+            "SHOW_TRAITS"
+        ],
+        "labels": [],
+        "travel": []
+    },
+    {
+        "_id": "658c303119d33d63a4c00b86",
+        "title": "ФоРест",
+        "slug": "forest",
+        "img": "https://fsk-uploads.hb.bizmrg.com/production/1708520007776-5de25b9315eb5202c2de93497c4c2d06.jpg",
+        "imgDouble": "https://fsk-uploads.hb.bizmrg.com/production/1708520018367-5de25b9315eb5202c2de93497c4c2d06.jpg",
+        "city": 6,
+        "client": [
+            "FSK"
+        ],
+        "priceMin": 4529494,
+        "priceMax": 11088679,
+        "areaMin": 26.4,
+        "areaMax": 95.52,
+        "areaLandMin": 0,
+        "areaLandMax": 0,
+        "flats": 94,
+        "flatsBuilt": 0,
+        "flatsBooking": 0,
+        "flatsFurniture": 0,
+        "flatsFinishing": 344,
+        "flatsView": 0,
+        "projectClass": 1,
+        "complexClass": 1,
+        "kind": [
+            "LIVING"
+        ],
+        "geo": [
+            48.77686804598141,
+            55.83322171777062
+        ],
+        "rooms": [
+            0,
+            1,
+            2,
+            3,
+            4
+        ],
+        "deliveryDateMin": "2025-12-20T21:00:00.000Z",
+        "deliveryDateMax": "2026-03-19T21:00:00.000Z",
+        "finishing": [
+            3
+        ],
+        "flatsFeatures": [
+            {
+                "title": "Квартира с отдельным входом на первом этаже"
+            },
+            {
+                "title": "Квартира с антресолью"
+            },
+            {
+                "title": "Квартира со вторым светом"
+            }
+        ],
+        "percentSold": 0,
+        "floors": [
+            4,
+            5,
+            6,
+            7
+        ],
+        "propertyTypes": [
+            0,
+            7
+        ],
+        "corpusCount": 6,
+        "options": [
+            "SHOW_TRAITS"
+        ],
+        "labels": [],
+        "travel": []
+    },
+    {
+        "_id": "65f2b3119ddb19ffd7b055bb",
+        "title": "Философия",
+        "slug": "philosophiya",
+        "img": "https://fsk-uploads.hb.bizmrg.com/production/1710424391371-7e204a53f58290d4b271404996fc8f7b.jpg",
+        "imgDouble": "https://fsk-uploads.hb.bizmrg.com/production/1710424435165-56247d629d82d222ad8fd93f717359d4.jpg",
+        "city": 5,
+        "client": [
+            "FSK"
+        ],
+        "priceMin": 8569488,
+        "priceMax": 35591215,
+        "areaMin": 26.5,
+        "areaMax": 125.1,
+        "areaLandMin": 0,
+        "areaLandMax": 0,
+        "flats": 239,
+        "flatsBuilt": 0,
+        "flatsBooking": 34,
+        "flatsFurniture": 0,
+        "flatsFinishing": 400,
+        "flatsView": 1,
+        "projectClass": 2,
+        "complexClass": 2,
+        "kind": [
+            "LIVING"
+        ],
+        "geo": [
+            131.90507271887088,
+            43.12176528249865
+        ],
+        "rooms": [
+            0,
+            1,
+            2,
+            3,
+            4
+        ],
+        "deliveryDateMin": "2027-03-30T21:00:00.000Z",
+        "deliveryDateMax": "2027-03-30T21:00:00.000Z",
+        "finishing": [
+            3
+        ],
+        "flatsFeatures": [],
+        "percentSold": 0,
+        "floors": [
+            10,
+            14,
+            23
+        ],
+        "propertyTypes": [
+            0,
+            7
+        ],
+        "corpusCount": 5,
+        "options": [
+            "SHOW_TRAITS"
+        ],
+        "labels": [],
+        "travel": []
+    },
+    {
+        "_id": "66b4caa267c9a706b3791107",
+        "title": "Фриссон",
+        "slug": "frisson",
+        "img": "https://fsk-uploads.hb.bizmrg.com/production/1723146344323-0ba4ef5fdd899991edbe0cadaacec91b.jpg",
+        "imgDouble": "https://fsk-uploads.hb.bizmrg.com/production/1723146353122-0ba4ef5fdd899991edbe0cadaacec91b.jpg",
+        "city": 6,
+        "logo": "https://fsk-uploads.hb.bizmrg.com/production/1723146230379-5cfc445e59cdd91a13e0855ccddb4fa2.png",
+        "client": [
+            "FSK"
+        ],
+        "priceMin": 8515980,
+        "priceMax": 21562555,
+        "areaMin": 27.3,
+        "areaMax": 97,
+        "areaLandMin": 0,
+        "areaLandMax": 0,
+        "flats": 104,
+        "flatsBuilt": 0,
+        "flatsBooking": 0,
+        "flatsFurniture": 0,
+        "flatsFinishing": 239,
+        "flatsView": 4,
+        "projectClass": 2,
+        "complexClass": 2,
+        "kind": [
+            "LIVING"
+        ],
+        "geo": [
+            49.146248557182055,
+            55.7624528625493
+        ],
+        "rooms": [
+            0,
+            1,
+            2,
+            3,
+            4
+        ],
+        "deliveryDateMin": "2027-06-29T21:00:00.000Z",
+        "deliveryDateMax": "2027-06-29T21:00:00.000Z",
+        "finishing": [
+            3
+        ],
+        "flatsFeatures": [],
+        "percentSold": 0,
+        "floors": [
+            14,
+            19,
+            20,
+            7,
+            8
+        ],
+        "propertyTypes": [
+            0,
+            7
+        ],
+        "corpusCount": 3,
+        "options": [
+            "SHOW_TRAITS"
+        ],
+        "labels": [],
+        "travel": []
+    },
+    {
+        "_id": "67c5966a881b972380d03259",
+        "title": "Фордевинд",
+        "slug": "fordevind",
+        "img": "https://fsk-uploads.hb.bizmrg.com/production/1741001029541-bcfccaec1534be9738c5945a6fb4d00a.png",
+        "imgDouble": "https://fsk-uploads.hb.bizmrg.com/production/1741001059383-8ef8a3b6eccf6c53bac559b9de4f1f0d.png",
+        "city": 7,
+        "logo": "https://fsk-uploads.hb.bizmrg.com/production/1741001014095-131cec6fa9023619c9c29592f97abcb8.png",
+        "logoPreview": "https://fsk-uploads.hb.bizmrg.com/production/1741000886885-131cec6fa9023619c9c29592f97abcb8.png",
+        "client": [
+            "FSK"
+        ],
+        "priceMin": 0,
+        "priceMax": 0,
+        "areaMin": 0,
+        "areaMax": 0,
+        "areaLandMin": 0,
+        "areaLandMax": 0,
+        "flats": 0,
+        "flatsBuilt": 0,
+        "flatsBooking": 0,
+        "flatsFurniture": 0,
+        "flatsFinishing": 0,
+        "flatsView": 0,
+        "projectClass": 2,
+        "complexClass": 2,
+        "kind": [
+            "LIVING",
+            "COMMERCE"
+        ],
+        "rooms": [],
+        "deliveryDateMin": "1970-01-01T00:00:00.000Z",
+        "deliveryDateMax": "1970-01-01T00:00:00.000Z",
+        "finishing": [],
+        "flatsFeatures": [],
+        "percentSold": 0,
+        "floors": [
+            3,
+            20
+        ],
+        "propertyTypes": [
+            0,
+            1
+        ],
+        "corpusCount": 6,
+        "options": [
+            "SHOW_TRAITS"
+        ],
+        "labels": [],
+        "travel": [],
+        "coverImg": {
+            "_id": "67c5d601176b3da0ce273204",
+            "src": "https://fsk-uploads.hb.bizmrg.com/production/1741001592724-ea9710fa0063c63805ad0165b75bb16a.png"
+        },
+        "coverImgMobile": {
+            "_id": "67c5d601176b3da0ce273205",
+            "src": "https://fsk-uploads.hb.bizmrg.com/production/1741001601865-e2177f839c37c7406fa11a623683f5c3.png"
+        },
+        "logoPreviewWidth": 490
+    }
+]
