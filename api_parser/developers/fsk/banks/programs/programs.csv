@@ -1,0 +1,12 @@
+﻿value,name,title
+0,Common,Стандартная
+1,Military,Военная
+2,Commerce,Коммерческая
+3,Subsidy,Субсидии
+4,Family,Семейная
+5,SubsidyRate,Субсидированная ставка
+6,TwoDocuments,Два документа
+7,IT,IT
+8,LargeFamily,Для многодетных семей
+9,FarEastern,FarEastern
+10,GovSupport,GovSupport

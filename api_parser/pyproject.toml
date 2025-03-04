@@ -1,0 +1,21 @@
+[tool.poetry]
+name = "api-parser"
+version = "0.1.0"
+description = ""
+authors = ["Фурман Илья Дмитриевич <i.d.furman@tinkoff.ru>"]
+readme = "README.md"
+packages = [{include = "api_parser"}]
+
+[tool.poetry.dependencies]
+python = "^3.11"
+orjson = "^3.10.15"
+pydantic = "^2.10.6"
+structlog = "^25.1.0"
+requests = "^2.32.3"
+environs = "^14.1.1"
+pandas = "^2.2.3"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
