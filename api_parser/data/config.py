@@ -9,6 +9,8 @@ env.read_env()
 
 BASE_DIR: pathlib.Path = Path(env.str("BASE_DIR"))
 
+FSK_API_URL: str = env.str("FSK_API_URL")
+
 CIAN_API_URL: str = env.str("CIAN_API_URL")
 ACCESS_TOKEN = env.str("ACCESS_TOKEN")
 

@@ -1,10 +1,7 @@
-import os
 import requests
 import json
 import structlog
-from datetime import datetime, timedelta
 from typing import List
-import time
 
 from api_parser.data import config
 from api_parser.utils import logging
@@ -23,22 +20,10 @@ class CianApiParser:
             'Authorization': f'Bearer {config.ACCESS_TOKEN}'
         }
 
-    def get_offers(self) -> None:
-        response = json.loads(
-            self.session.get(
-                url=config.CIAN_API_URL + 'get-my-offers?source=upload&statuses=inactive&statuses=published&page=1&pageSize=10'
-            ).content
-        )
-
-        print(response)
-
     def get_new_buildings(self) -> List[BuildingModel]:
         response = json.loads(
             self.session.get(
-                url=config.CIAN_API_URL + 'v2/get-newbuildings/',
-                headers={
-                    'Authorization': f'Bearer {config.ACCESS_TOKEN}'
-                }
+                url=config.CIAN_API_URL + 'v2/get-newbuildings/'
             ).content
         )
 
@@ -56,10 +41,7 @@ class CianApiParser:
 
         response = json.loads(
             self.session.get(
-                url=config.CIAN_API_URL + 'v2/get-prices/',
-                headers={
-                    'Authorization': f'Bearer {config.ACCESS_TOKEN}'
-                }
+                url=config.CIAN_API_URL + 'v2/get-prices/'
             ).content
         )
 
@@ -74,4 +56,4 @@ class CianApiParser:
 
 if __name__ == '__main__':
     cianParser = CianApiParser()
-    cianParser.get_offers()
+
